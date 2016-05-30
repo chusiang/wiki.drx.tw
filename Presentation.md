@@ -9,8 +9,15 @@
 * 04.29 / [Git and Github basic with SourceTree](http://www.slideshare.net/freezejonny/git-and-github-basic-with-sourcetree) / [活動網址](https://www.facebook.com/events/1417995725171168/)
 * 01.15 / [無痛入門 Chromecast](http://www.slideshare.net/freezejonny/2015-0115chromecast-43577698) / [活動網址](http://akdg.kktix.cc/events/akdg8-no9?locale=en)
 
+## 2014
+
+* 11.24 [關於我](http://rvl.drx.tw/2014-02-25-gerrit-x-jenkins.html#/)
+* 02.25 [Gerrit x Jenkins](http://rvl.drx.tw/2014-02-25-gerrit-x-jenkins.html#/)
+
 ## 2013
 
+* 11.23 [凍仁的 IT 工作史](http://rvl.drx.tw/2013-11-23-my-it-history.html#/) 
+* 06.30 [使用 Multi-sites 技術快速建置多 Drupal 網站](http://www.slideshare.net/freezejonny/2013-0630d7multisite) / [活動網址](https://drupaltaiwan.org/forum/20130528/7429)
 * 06.08 [使用 Multi-sites 技術快速建置多 Drupal 網站](http://www.slideshare.net/freezejonny/2013-0630d7multisite) / [活動網址](https://drupaltaiwan.org/forum/20130528/7428)
 
 ## 2012
