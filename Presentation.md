@@ -26,3 +26,15 @@
 * 12.08 / [使用 Clonezilla (再生龍) 打造不死的 Ubuntu 生活](http://chusiang.github.io/impress.js/2012-12-08-clonezilla.html#/bored) / [活動網址](http://ubuntu-tw.kktix.cc/events/urptw1210kh)
 * 08.18 / [helloTux 2012](http://www.slideshare.net/freezejonny/hellotux-coscup-2012)
 
+## 2010
+
+* 11.20 / [Unity & Googlizer](http://www.slideshare.net/freezejonny/ubuntureleaseparty) / [活動網址](https://docs.google.com/document/d/1J4oGJYS3WQEovB3qHEAcVScyx_dAwSfBEcCeT9yVJ94/edit?hl=zh_TW#)
+ * Ubuntu 10.10 Release Party @Taipei 101
+* 04.10 / [Ubuntu 藍星侵略計劃](http://www.slideshare.net/freezejonny/990414ubuntubluestar)
+* 01.16 / [Intro of Network, WiFi on Ubuntu](http://www.slideshare.net/freezejonny/ubutwkh2-internet)
+
+## 2009
+
+* ??? / [歡迎來到 Ubuntu 9.10 Release Party (台中)](http://www.slideshare.net/freezejonny/ubuntu-904-release)
+ * Ubuntu 9.10 Release Party @Taichung
+
