@@ -17,10 +17,12 @@
 ## 2013
 
 * 11.23 [凍仁的 IT 工作史](http://rvl.drx.tw/2013-11-23-my-it-history.html#/) 
-* 06.30 [使用 Multi-sites 技術快速建置多 Drupal 網站](http://www.slideshare.net/freezejonny/2013-0630d7multisite) / [活動網址](https://drupaltaiwan.org/forum/20130528/7429)
-* 06.08 [使用 Multi-sites 技術快速建置多 Drupal 網站](http://www.slideshare.net/freezejonny/2013-0630d7multisite) / [活動網址](https://drupaltaiwan.org/forum/20130528/7428)
+* 06.30 [使用 Multi-sites 技術快速建置多 Drupal 網站](http://rvl.drx.tw/2013-06-30-d7-multi-site.html#/) / [活動網址](https://drupaltaiwan.org/forum/20130528/7429)
+* 04.20 [使用 Multi-sites 技術快速建置多 Drupal 網站](http://chusiang.github.io/impress.js/2013-04-20-d7-multi-site.html#/bored) / [活動網址](https://drupaltaiwan.org/forum/20130528/7428)
+* 02.27 [關於我](http://chusiang.github.io/impress.js/2013-02-27-about-me.html#/bored)
 
 ## 2012
 
+* 12.08 / [使用 Clonezilla (再生龍) 打造不死的 Ubuntu 生活](http://chusiang.github.io/impress.js/2012-12-08-clonezilla.html#/bored) / [活動網址](http://ubuntu-tw.kktix.cc/events/urptw1210kh)
 * 08.18 / [helloTux 2012](http://www.slideshare.net/freezejonny/hellotux-coscup-2012)
 
