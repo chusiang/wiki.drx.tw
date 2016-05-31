@@ -45,8 +45,35 @@
 
 ### Image (映像檔)
 
-- Ultra ISO Premium Edition - ISO 製作、 編輯 Windows
-- WinISO - 映像檔編輯工具 [ Windows ]
+- Ultra ISO Premium Edition - ISO 製作、編輯。 [ Windows ]
+- WinISO - 映像檔編輯工具。 [ Windows ]
+
+
+### Console Emulator (操緃臺)
+
+- Bash
+- Cygwin [ Windows ]
+- PowerShell [ Windows ]
+- Zsh
+
+#### Terminal
+
+- [Cmder][cmder] - 具有 Linux 溫度的 Windows 命令提示字元。 [ Windows ]
+- Gnome Terminal
+- LXTerminal
+- iTerm 2
+- rxvt
+
+[cmder]: http://cmder.net
+
+
+### Video Recording (視訊錄影)
+
+- CamStudio
+- [OBS Studio][obs] - Open Broadcaster Software is free and open source software for video recording and live streaming.
+- QuickTime Player
+
+[obs]: https://obsproject.com
 
 
 ### Virtual CD (虛擬光碟)
@@ -54,3 +81,4 @@
 - Alcohol 52%, 120% [ Windows ]
 - MagicDisk [ Windows ]
 - Daemon Tool [ Windows ]
+
