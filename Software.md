@@ -1,13 +1,12 @@
 # 軟體
 
-這裡是凍仁紀錄使用過的軟體，以備將來不時之需。
-
-
-## Freeware ≠ Free Software
+這裡是凍仁紀錄接觸過的各式軟體，以備將來不時之需。
 
 自由軟體 (Free Software) 是基於完全開放的理念，與免費軟體 (Freeware) 實質上還是有些差異，好比程式設計師免費開放給大眾使用卻不開放原始碼，故部份人改用[開放原始碼 (Open Source)][open_source]、[自由及開放原始碼 (Free and open-source software，FLOSS)][floss] 一詞較不易混淆。
 
-而自由軟體較常用的授權方式分別是 GPL, MIT, BSD, CC 等。
+> Freeware ≠ Free Software
+
+自由軟體較常用的授權方式分別是 Apache, GPL, MIT, BSD, CC ... 等。
 
 
 ## 軟體種類 (Software Type)
