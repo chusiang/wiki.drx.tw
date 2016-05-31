@@ -50,7 +50,7 @@
 - PowerShell [ Windows ]
 - Zsh
 
-#### Terminal
+#### Terminal Emulator (終端機)
 
 - [Cmder][cmder] - 具有 Linux 溫度的 Windows 命令提示字元。 [ Windows ]
 - Gnome Terminal
