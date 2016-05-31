@@ -52,12 +52,14 @@
 
 #### Terminal Emulator (終端機)
 
+- [Black Screen][black_screen] - A terminal emulator for the 21st century.
 - [Cmder][cmder] - 具有 Linux 溫度的 Windows 命令提示字元。 [ Windows ]
 - Gnome Terminal
 - LXTerminal
 - iTerm 2
 - rxvt
 
+[black_screen]: https://github.com/shockone/black-screen
 [cmder]: http://cmder.net
 
 
