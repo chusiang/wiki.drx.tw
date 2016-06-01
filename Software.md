@@ -68,7 +68,9 @@
 - CamStudio
 - [OBS Studio][obs] - Open Broadcaster Software is free and open source software for video recording and live streaming.
 - QuickTime Player
+- [KeyCastr][keycastr]: An open-source keystroke visualizer. [ OSX ]
 
+[keycastr]: https://github.com/keycastr/keycastr
 [obs]: https://obsproject.com
 
 
