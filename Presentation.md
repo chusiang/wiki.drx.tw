@@ -11,7 +11,7 @@
 
 ## 2014
 
-* 11.24 [關於我](http://rvl.drx.tw/2014-02-25-gerrit-x-jenkins.html#/)
+* 11.24 [關於我](http://rvl.drx.tw/2014-11-24-about-me.html)
 * 02.25 [Gerrit x Jenkins](http://rvl.drx.tw/2014-02-25-gerrit-x-jenkins.html#/)
 
 ## 2013
@@ -37,4 +37,3 @@
 
 * ??? / [歡迎來到 Ubuntu 9.10 Release Party (台中)](http://www.slideshare.net/freezejonny/ubuntu-904-release)
  * Ubuntu 9.10 Release Party @Taichung
-
