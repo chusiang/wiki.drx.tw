@@ -8,6 +8,5 @@ chusiang's wiki.
 - [讀書清單](https://gist.github.com/chusiang/7b8a1db696ef31ab5192a88573a97765)
 - [vimrc](https://github.com/chusiang/vimrc/)
 - [軟體](https://github.com/chusiang/note/wiki/Software)
-
-
+- [DevOps](https://github.com/chusiang/note/wiki/DevOps)
 
