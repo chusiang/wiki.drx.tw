@@ -5,7 +5,9 @@
   * chusiang | GitHub - https://github.com/chusiang/
 
 
-## Configuration Management & Infrastructure as Code
+## Configuration Management
+
+Infrastructure as Code.
 
 * Ansible - https://www.ansible.com/
  * Ansible Galaxy - https://galaxy.ansible.com/
@@ -18,7 +20,9 @@
 * Travis CI - https://travis-ci.org/
  * chusiang | Travis CI - https://travis-ci.org/chusiang/
 
-## Measurement & Monitor
+## Measurement
+
+Monitor.
 
 * Zabbix - http://www.zabbix.com/
 
@@ -27,6 +31,8 @@
 none
 
 ## Provisioning
+
+Virtualization.
 
 * Vagrant - https://www.vagrantup.com/
  * Atlas - https://atlas.hashicorp.com/
