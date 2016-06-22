@@ -10,8 +10,9 @@
 Infrastructure as Code.
 
 * Ansible - https://www.ansible.com/
-  * Ansible Galaxy - https://galaxy.ansible.com/
-    * chusiang | Ansible Galaxy - https://galaxy.ansible.com/chusiang/
+  * [Ansible Galaxy](https://galaxy.ansible.com/)
+    * [chusiang | Ansible Galaxy](https://galaxy.ansible.com/chusiang/)
+ * [Ansible On Demand Webinar | Ansible Inc.](https://gist.github.com/chusiang/91632920f75e03e1d24cf9213cbfe216)
 
 
 ## Continuous Integration
