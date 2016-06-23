@@ -9,3 +9,4 @@ chusiang's wiki.
 - [vimrc](https://github.com/chusiang/vimrc/)
 - [軟體](https://github.com/chusiang/note/wiki/Software)
 - [DevOps Tools](https://github.com/chusiang/note/wiki/DevOps-Tools)
+- [ISP DNS 伺服器位址](https://github.com/chusiang/note/wiki/ISP-DNS-Server-Address)
