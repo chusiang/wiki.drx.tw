@@ -14,6 +14,15 @@
 
 ## 軟體列表 (Software List)
 
+### IME (输入法编辑器)
+
+- [嘸蝦米輸入法][ovff]
+- [許氏注音輸入法](hsu-key)
+
+[ovff]: https://boshiamy.com
+[hsu-key]: https://zh.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E8%BC%B8%E5%85%A5%E6%B3%95#.E8.A8.B1.E6.B0.8F.E9.8D.B5.E7.9B.A4
+
+
 ### Burn (光碟燒錄)
 
 - CDBurnerXP - 支援中文語系。 [ Windows ]
