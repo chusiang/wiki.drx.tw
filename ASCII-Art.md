@@ -1,6 +1,6 @@
 # cowsay
 
-[cowsay - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/Cowsay)
+- [cowsay - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/Cowsay)
 
 ```
 $ cowsay "Automate with Ansible!"
@@ -30,7 +30,7 @@ $ cowsay -f tux 'Tux'
 
 ## whalesay
 
-* [Find & run the whalesay image | Docker](https://docs.docker.com/engine/getstarted/step_three/)
+- [Find & run the whalesay image | Docker](https://docs.docker.com/engine/getstarted/step_three/)
 
 ```
 $ cowsay Docker
