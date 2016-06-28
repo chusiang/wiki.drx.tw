@@ -2,8 +2,8 @@
 
 ## 2016
 
-* 07/16 / 現代 IT 人一定要知道的 Ansible 自動化組態技巧 Ⅱ / [活動網址](http://studyarea.kktix.cc/events/c6457aff)
-* 07/04 / 前端工程師一定要知道的 Docker 虛擬化容器技巧 / [活動網址](https://www.facebook.com/events/270434173308724/)
+* 07.16 / 現代 IT 人一定要知道的 Ansible 自動化組態技巧 Ⅱ / [活動網址](http://studyarea.kktix.cc/events/c6457aff)
+* 07.04 / 前端工程師一定要知道的 Docker 虛擬化容器技巧 / [活動網址](https://www.facebook.com/events/270434173308724/)
 * 05.28 / [現代 IT 人一定要知道的 Ansible 自動化組態技巧](http://www.slideshare.net/freezejonny/it-ansible) / [Outline](https://gist.github.com/chusiang/60918f8f400c3f82944c86b924553b27) / [活動網址](http://kalug.kktix.cc/events/84f75129)
 
 ## 2015
