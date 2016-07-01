@@ -14,7 +14,7 @@
 
 ## 軟體列表 (Software List)
 
-### IME (输入法编辑器)
+### IME (輸入法編輯器)
 
 - [嘸蝦米輸入法][ovff]
 - [許氏注音輸入法](hsu-key)
@@ -40,6 +40,18 @@
 [fsarchiver]: http://www.fsarchiver.org/
 [partimage]: http://www.partimage.org/
 
+### Text Editor (純文字編輯器)
+
+- [Vim][vim] / [Vim 正體中文社群][vim_tw]
+- [Emacs][emacs] / [Emacs 台灣社群][emacs_tw]
+- Nano
+- [Joe][joe]
+
+[vim]: http://www.vim.org/
+[vim_tw]: http://www.vim.tw/
+[emacs]: https://www.gnu.org/software/emacs/
+[emacs_tw]: http://emacser.tw
+[joe]: http://joe-editor.sourceforge.net/
 
 ### Finance (財務管理)
 
@@ -88,4 +100,3 @@
 - Alcohol 52%, 120% [ Windows ]
 - MagicDisk [ Windows ]
 - Daemon Tool [ Windows ]
-
