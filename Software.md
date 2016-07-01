@@ -23,6 +23,20 @@
 [hsu-key]: https://zh.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E8%BC%B8%E5%85%A5%E6%B3%95#.E8.A8.B1.E6.B0.8F.E9.8D.B5.E7.9B.A4
 
 
+## Browser (瀏覽器)
+
+* [Mozilla Firefox (火狐)][firefox] / [Mozilla 台灣社群][moztw]
+* [Google Chrome][chrome]
+* [Safari][safari]
+* [Vivaldi][vivaldi] - fork from Opera.
+
+[firefox]: https://moztw.org/firefox/
+[moztw]: https://moztw.org
+[chrome]: https://www.google.com.tw/chrome/
+[safari]: http://www.apple.com/tw/safari/
+[vivaldi]: https://vivaldi.com/?lang=zh_TW
+
+
 ### Burn (光碟燒錄)
 
 - CDBurnerXP - 支援中文語系。 [ Windows ]
@@ -39,6 +53,7 @@
 [clonezilla]: http://clonezilla.nchc.org.tw/
 [fsarchiver]: http://www.fsarchiver.org/
 [partimage]: http://www.partimage.org/
+
 
 ### Text Editor (純文字編輯器)
 
