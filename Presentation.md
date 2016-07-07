@@ -3,12 +3,12 @@
 ## 2016
 
 * 07.16 / 現代 IT 人一定要知道的 Ansible 自動化組態技巧 Ⅱ / [活動網址](http://studyarea.kktix.cc/events/c6457aff)
-* 07.04 / [前端工程師一定要知道的 Docker 虛擬化容器技巧](http://www.slideshare.net/freezejonny/docker-63701917) / [活動網址](https://www.facebook.com/events/270434173308724/)
-* 05.28 / [現代 IT 人一定要知道的 Ansible 自動化組態技巧](http://www.slideshare.net/freezejonny/it-ansible) / [Outline](https://gist.github.com/chusiang/60918f8f400c3f82944c86b924553b27) / [活動網址](http://kalug.kktix.cc/events/84f75129)
+* 07.04 / [前端工程師一定要知道的 Docker 虛擬化容器技巧](https://speakerdeck.com/chusiang/qian-duan-gong-cheng-shi-ding-yao-zhi-dao-de-docker-xu-ni-hua-rong-qi-ji-qiao) / [mirror](http://www.slideshare.net/freezejonny/docker-63701917) / [活動網址](https://www.facebook.com/events/270434173308724/)
+* 05.28 / [現代 IT 人一定要知道的 Ansible 自動化組態技巧](https://speakerdeck.com/chusiang/xian-dai-it-ren-ding-yao-zhi-dao-de-ansible-zi-dong-hua-zu-tai-ji-qiao) / [mirror](http://www.slideshare.net/freezejonny/it-ansible) / [Outline](https://gist.github.com/chusiang/60918f8f400c3f82944c86b924553b27) / [活動網址](http://kalug.kktix.cc/events/84f75129)
 
 ## 2015
 
-* 04.29 / [Git and Github basic with SourceTree](http://www.slideshare.net/freezejonny/git-and-github-basic-with-sourcetree) / [活動網址](https://www.facebook.com/events/1417995725171168/)
+* 04.29 / [Git and Github basic with SourceTree](https://speakerdeck.com/chusiang/git-and-github-basic-with-sourcetree) / [mirror](http://www.slideshare.net/freezejonny/git-and-github-basic-with-sourcetree) / [活動網址](https://www.facebook.com/events/1417995725171168/)
 * 01.15 / [無痛入門 Chromecast](http://www.slideshare.net/freezejonny/2015-0115chromecast-43577698) / [活動網址](http://akdg.kktix.cc/events/akdg8-no9?locale=en)
 
 ## 2014
