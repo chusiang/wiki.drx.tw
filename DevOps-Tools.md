@@ -3,6 +3,9 @@
 * [Git](https://git-scm.com/)
   * [GitHub](https://github.com/)
     * [chusiang | GitHub](https://github.com/chusiang/)
+    * [chusiang | GitHub Awards](http://github-awards.com/users/search?login=chusiang)
+  * [Bitbucket](https://bitbucket.org/)
+    * [chusiang | Bitbucket](https://bitbucket.org/chusiang/)
 
 
 ## Configuration Management
