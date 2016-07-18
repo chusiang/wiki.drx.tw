@@ -115,3 +115,10 @@
 - Alcohol 52%, 120% [ Windows ]
 - MagicDisk [ Windows ]
 - Daemon Tool [ Windows ]
+
+
+### Package Manager (套件管理員)
+
+- [Chocolatey](chocolatey) [Windows]
+
+[chocolatey]: https://chocolatey.org/
