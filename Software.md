@@ -119,6 +119,6 @@
 
 ### Package Manager (套件管理員)
 
-- [Chocolatey](chocolatey) [Windows]
+- [Chocolatey](chocolatey) - A PowerShell base package manager. [Windows]
 
 [chocolatey]: https://chocolatey.org/
