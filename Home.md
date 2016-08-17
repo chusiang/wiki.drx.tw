@@ -2,6 +2,8 @@
 
 chusiang's wiki.
 
+- [社群活動](https://github.com/chusiang/chusiang.github.io/wiki/Community)
+
 ## 電腦技術 (Computer Technology)
 
 - [簡報 & 投影片](https://github.com/chusiang/chusiang.github.io/wiki/Presentation)
