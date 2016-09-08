@@ -17,6 +17,7 @@ Infrastructure as Code.
     * [chusiang | Ansible Galaxy](https://galaxy.ansible.com/chusiang/)
  * [Ansible On Demand Webinar | Ansible Inc.](https://gist.github.com/chusiang/91632920f75e03e1d24cf9213cbfe216) - Ansible 公司的網路研討會。
 * [Chef](https://www.chef.io/)
+  * [Chef Supermarket](https://supermarket.chef.io)
 
 
 ## Continuous Integration
