@@ -29,6 +29,7 @@ Infrastructure as Code.
 
 Monitor.
 
+* [Prometheus](https://prometheus.io)
 * [Zabbix](http://www.zabbix.com/)
 
 ## Log
