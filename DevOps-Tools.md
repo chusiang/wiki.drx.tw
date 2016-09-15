@@ -31,7 +31,7 @@ Infrastructure as Code.
 Monitor.
 
 * [Prometheus](https://prometheus.io)
-* [Zabbix](http://www.zabbix.com/)
+* [Zabbix](https://github.com/chusiang/chusiang.github.io/wiki/Zabbix)
 
 ## Log
 
