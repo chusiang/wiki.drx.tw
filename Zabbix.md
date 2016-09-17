@@ -3,6 +3,7 @@
 ## Zabbix Server performance tuning
 
 1. 把 zabbix-agent 從被動 (passive) 模式改為主動 (active) 模式。
+1. 架設 Zabbix Proxy Server 以降低 Zabbix Server 負載。
 1. 調整 Zabbix Server 的平行處理參數。
 1. 增加 Items 檢查間隔時間 (interval)。
 1. 放寬 Trigger 規則。
