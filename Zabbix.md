@@ -25,3 +25,13 @@
 
 - [zabbix/zabbix-proxy-sqlite3](https://hub.docker.com/r/zabbix/zabbix-proxy-sqlite3/)
 - [zabbix/zabbix-proxy-mysql](https://hub.docker.com/r/zabbix/zabbix-proxy-mysql/)
+
+## Infrastructure as Code
+
+### Ansible
+
+- [Ansible Galaxy | chusiang.zabbix-agent](https://galaxy.ansible.com/chusiang/zabbix-agent/)
+
+### Chef
+
+- [commandp/zabbix-agent: Zabbix agent install based off laradji/zabbix](https://github.com/commandp/zabbix-agent)
