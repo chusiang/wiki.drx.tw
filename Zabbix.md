@@ -14,3 +14,14 @@
 
 - Discovery: 發現新的主機 (hosts, managed nodes)。
 - Action: 觸發特定事件 (event) 後，用來加入新的主機的功能，可藉由設置 HostMetadata 來自動加入不同的 Host Group 或連接不同的 Templates。
+
+## Dockerized
+
+### Zabbix Server
+
+- [monitoringartist/zabbix-3.0-xxl](https://hub.docker.com/r/monitoringartist/zabbix-3.0-xxl/)
+
+### Zabbix Proxy Server
+
+- [zabbix/zabbix-proxy-sqlite3](https://hub.docker.com/r/zabbix/zabbix-proxy-sqlite3/)
+- [zabbix/zabbix-proxy-mysql](https://hub.docker.com/r/zabbix/zabbix-proxy-mysql/)
