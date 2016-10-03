@@ -35,3 +35,11 @@
 ### Chef
 
 - [commandp/zabbix-agent: Zabbix agent install based off laradji/zabbix](https://github.com/commandp/zabbix-agent)
+
+## Extension
+
+### Nginx
+
+- [Template App Nginx (thecamels)](https://github.com/thecamels/zabbix): 藉由 nginx-check.sh 和 User Parameters 來實作監控 Nginx sub status，並於 zabbix server 匯入 template。可參考 [Zabbix 监控 Nginx 性能 | Vincent 运维](https://my.oschina.net/liuhuan0927/blog/621436)和[启用 Nginx status 状态详解 | 运维生存时间](http://www.ttlsa.com/nginx/nginx-status-detail/)等文章。
+
+  
