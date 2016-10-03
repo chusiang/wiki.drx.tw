@@ -23,7 +23,7 @@
 
 ### Zabbix Proxy Server
 
-- [zabbix/zabbix-proxy-sqlite3](https://hub.docker.com/r/zabbix/zabbix-proxy-sqlite3/)
+- [zabbix/zabbix-proxy-sqlite3](https://hub.docker.com/r/zabbix/zabbix-proxy-sqlite3/): 建議使用 sqlite 架設 Proxy，可省下一台 database server。
 - [zabbix/zabbix-proxy-mysql](https://hub.docker.com/r/zabbix/zabbix-proxy-mysql/)
 
 ## Infrastructure as Code
