@@ -41,5 +41,6 @@
 ### Nginx
 
 - [Template App Nginx (thecamels)](https://github.com/thecamels/zabbix): 藉由 nginx-check.sh 和 User Parameters 來實作監控 Nginx sub status，並於 zabbix server 匯入 template。可參考 [Zabbix 监控 Nginx 性能 | Vincent 运维](https://my.oschina.net/liuhuan0927/blog/621436)和[启用 Nginx status 状态详解 | 运维生存时间](http://www.ttlsa.com/nginx/nginx-status-detail/)等文章。
+- [Template App Nginx (blacked)](https://github.com/blacked/zbx_nginx_template): 在已安裝 zabbix-agent 的 host 裡，使用排程執行 python script 以截取 nginx status，之後於 zabbix server 匯入 nginx 的 template。
 
   
