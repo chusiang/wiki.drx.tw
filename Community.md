@@ -15,6 +15,7 @@
 1. [Kaohsiung Python Meetup](http://www.meetup.com/Kaohsiung-Python-Meetup/)
 1. [Docker Taipei Meetup](http://www.meetup.com/Docker-Taipei/)
 1. [Taipei DevOps Meetup | Meetup](https://www.meetup.com/Taipei-DevOps-Meetup/)
+  1. [Taipei DevOps Meetup 日程表 (Schedule)| hackpad](https://taipeidevopsmeetup.hackpad.com/ep/pad/static/64hIE6ms9qP)
 
 ## 研討會 (Conference)
 
