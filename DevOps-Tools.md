@@ -41,7 +41,7 @@ none
 
 Virtualization.
 
-* [Vagrant](https://www.vagrantup.com/)
+* [Vagrant](https://github.com/chusiang/chusiang.github.io/wiki/Vagrant)
   * [Atlas](https://atlas.hashicorp.com/)
     * [chusiang | Atlas](https://atlas.hashicorp.com/chusiang/)
 * [Docker](https://www.docker.com/)
