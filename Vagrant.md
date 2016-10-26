@@ -6,4 +6,25 @@
 
 ## Plugins
 
-- [vagrant-remove-old-box-versions](https://github.com/swisnl/vagrant-remove-old-box-versions) - Vagrant plugin to check your downloaded boxes and remove every box that is not the lastest downloaded version.
+### [vagrant-remove-old-box-versions](https://github.com/swisnl/vagrant-remove-old-box-versions)
+
+Vagrant plugin to check your downloaded boxes and remove every box that is not the lastest downloaded version.
+
+- Installation.
+
+    ```
+    $ vagrant plugin install vagrant-remove-old-box-versions
+    ```
+
+- Usage.
+
+    ```
+    $ vagrant remove-old-versions [options]
+
+    # Options:
+    #
+    #  -p, --provider PROVIDER          The specific provider type for the boxes to destroy.
+    #  -n, --dry-run                    Only print the boxes that would be removed.
+    #      --name NAME                  The specific box name to destroy.
+    #  -f, --force                      Destroy without confirmation even when box is in use.
+    ```
