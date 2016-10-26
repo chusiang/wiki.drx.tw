@@ -8,7 +8,7 @@
 
 ### [vagrant-remove-old-box-versions](https://github.com/swisnl/vagrant-remove-old-box-versions)
 
-Vagrant plugin to check your downloaded boxes and remove every box that is not the lastest downloaded version.
+checking your downloaded boxes and remove every box that is not the lastest downloaded version.
 
 - Installation.
 
