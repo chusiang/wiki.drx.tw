@@ -1,4 +1,4 @@
-# 編輯器 (Editor)
+# 純文字編輯器 (Text Editor)
 
 ## Vim
 
@@ -6,6 +6,6 @@
 
 ## Atom
 
-GitHub 公司出廠的 open source IDE。
+GitHub 公司出廠的 open source editor。
 
 - [autocomplete-ansible](https://atom.io/packages/autocomplete-ansible): 自動補齊 Ansible Playbook 的 plugin。
