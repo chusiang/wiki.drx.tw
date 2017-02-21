@@ -155,3 +155,11 @@
 * [Piwik][piwik]
 
 [piwik]: https://piwik.org/
+
+### Window Management
+
+* [Spectacle][spectacle] - Open Source window manager. [ macOS ]
+* Compiz - window manager [ Linux ]
+
+[spectacle]: https://www.spectacleapp.com/
+
