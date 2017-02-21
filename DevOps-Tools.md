@@ -38,7 +38,7 @@ none.
 ## Deployment
 
 * Capistrano
-* Code Deploy
+* [CodeDeploy](https://aws.amazon.com/tw/codedeploy/)
 
 ## Config / Provisioning
 
