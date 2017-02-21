@@ -20,10 +20,13 @@
 - [許氏注音輸入法](hsu-key)
 - [Chewing][chewing] - 新酷音。 [ Linux / Windows ]
 - YahooKeyKey - Yahoo 好打注音。 [ Mac / Windows ]
+- [Gcin][gcin]
 
 [ovff]: https://boshiamy.com
 [hsu-key]: https://zh.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E8%BC%B8%E5%85%A5%E6%B3%95#.E8.A8.B1.E6.B0.8F.E9.8D.B5.E7.9B.A4
 [chewing]: http://chewing.im/
+[gcin]: http://hyperrate.com/dir.php?eid=67
+
 
 ### Browser (瀏覽器)
 
@@ -146,3 +149,9 @@
 - Virtual PC - Microsoft 自家的虛擬電腦軟體。
 
 [virtualbox]: https://www.virtualbox.org/
+
+### 分析 (Analytics)
+
+* [Piwik][piwik]
+
+[piwik]: https://piwik.org/
