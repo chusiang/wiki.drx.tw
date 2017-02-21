@@ -26,7 +26,8 @@ none.
 
 ## Repo Management
 
-* Docker Hub
+* [Docker Hub](https://hub.docker.com/)
+  * [chusiang | Docker Hub](https://hub.docker.com/u/chusiang/)
 * npm
 
 ## Testing
@@ -61,8 +62,6 @@ Infrastructure as Code.
 ## Containerization
 
 * [Docker](https://www.docker.com/)
-  * [Docker Hub](https://hub.docker.com/)
-    * [chusiang | Docker Hub](https://hub.docker.com/u/chusiang/)
 * Mesos
 * Swarm
 * Kubernetes (K8s)
