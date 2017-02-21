@@ -1,14 +1,47 @@
-## Version Control
+Reference the https://xebialabs.com/periodic-table-of-devops-tools/ .
+
+## SCM (Version Control)
 
 * [Git](https://git-scm.com/)
-  * [GitHub](https://github.com/)
-    * [chusiang | GitHub](https://github.com/chusiang/)
-    * [chusiang | GitHub Awards](http://github-awards.com/users/search?login=chusiang)
-  * [Bitbucket](https://bitbucket.org/)
-    * [chusiang | Bitbucket](https://bitbucket.org/chusiang/)
+* [GitHub](https://github.com/)
+  * [chusiang | GitHub](https://github.com/chusiang/)
+  * [chusiang | GitHub Awards](http://github-awards.com/users/search?login=chusiang)
+* [Bitbucket](https://bitbucket.org/)
+  * [chusiang | Bitbucket](https://bitbucket.org/chusiang/)
 
+## Database Management
 
-## Configuration Management
+none.
+
+## Build
+
+* Make
+* Packer
+
+## CI (Continuous Integration)
+
+* [Jenkins](https://jenkins.io/)
+* [Travis CI](https://travis-ci.org/)
+  * [chusiang | Travis CI](https://travis-ci.org/chusiang/)
+
+## Repo Management
+
+* Docker Hub
+* npm
+
+## Testing
+
+* Selenium
+* JMeter
+
+## Deployment
+
+* Capistrano
+* Code Deploy
+
+## Config / Provisioning
+
+### Configuration Management
 
 Infrastructure as Code.
 
@@ -19,31 +52,54 @@ Infrastructure as Code.
 * [Chef](https://www.chef.io/)
   * [Chef Supermarket](https://supermarket.chef.io)
 
-
-## Continuous Integration
-
-* [Jenkins](https://jenkins.io/)
-* [Travis CI](https://travis-ci.org/)
-  * [chusiang | Travis CI](https://travis-ci.org/chusiang/)
-
-## Measurement
-
-Monitor.
-
-* [Prometheus](https://prometheus.io)
-* [Zabbix](https://github.com/chusiang/chusiang.github.io/wiki/Zabbix)
-
-## Log
-
-none
-
-## Provisioning
-
-Virtualization.
+### Provisioning
 
 * [Vagrant](https://github.com/chusiang/chusiang.github.io/wiki/Vagrant)
   * [Atlas](https://atlas.hashicorp.com/)
     * [chusiang | Atlas](https://atlas.hashicorp.com/chusiang/)
+
+## Containerization
+
 * [Docker](https://www.docker.com/)
   * [Docker Hub](https://hub.docker.com/)
     * [chusiang | Docker Hub](https://hub.docker.com/u/chusiang/)
+* Mesos
+* Swarm
+* Kubernetes (K8s)
+* Rancher
+
+## Cloud / IaaS / PaaS
+
+* AWS
+* Azure
+* Google Cloud Platform
+* Rackspace
+* DigitalOcean
+* Linode
+* Heroku
+
+## Release Management
+
+none.
+
+## Collaboration
+
+* Trello
+* HipChat
+* Slack
+* Rocket.Chat
+
+## Bl / Monitoring
+
+* Nagios
+* [Zabbix](https://github.com/chusiang/chusiang.github.io/wiki/Zabbix)
+* [Prometheus](https://prometheus.io)
+
+## Logging
+
+* Logstash.
+
+## Security
+
+* none.
+
