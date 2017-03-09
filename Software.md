@@ -147,7 +147,9 @@
  - VMware Workstation
  - VMware ESXi
 - Virtual PC - Microsoft 自家的虛擬電腦軟體。
+- [Proxmox][proxmox] - 類似 VMware ESXi 的 open source solution.
 
+[proxmox]: https://www.proxmox.com/
 [virtualbox]: https://www.virtualbox.org/
 
 ### 分析 (Analytics)
@@ -163,3 +165,9 @@
 
 [spectacle]: https://www.spectacleapp.com/
 
+
+- [Alfred][alfred] [ macOS ]
+- [Wox][wox] [ Windows ]
+
+[alfred]: https://www.alfredapp.com/
+[wox]: https://github.com/Wox-launcher/Wox
