@@ -16,11 +16,11 @@
 
 ### IME (輸入法編輯器)
 
-- [嘸蝦米輸入法][ovff]
+- [嘸蝦米輸入法][ovff] [Windows / Mac / Android]
 - [許氏注音輸入法](hsu-key)
 - [Chewing][chewing] - 新酷音。 [ Linux / Windows ]
 - YahooKeyKey - Yahoo 好打注音。 [ Mac / Windows ]
-- [Gcin][gcin]
+- [Gcin][gcin] [Linux / Windows / Android ]
 
 [ovff]: https://boshiamy.com
 [hsu-key]: https://zh.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E8%BC%B8%E5%85%A5%E6%B3%95#.E8.A8.B1.E6.B0.8F.E9.8D.B5.E7.9B.A4
@@ -31,6 +31,7 @@
 ### Browser (瀏覽器)
 
 * [Mozilla Firefox (火狐)][firefox] / [Mozilla 台灣社群][moztw]
+ - [Pentadactyl][pentadactyl] - 讓 Firefox 可使用 vim like 的方式進行操作的 add-on。
 * [Google Chrome][chrome]
 * [Safari][safari]
 * [Vivaldi][vivaldi] - fork from Opera.
@@ -40,7 +41,15 @@
 [chrome]: https://www.google.com.tw/chrome/
 [safari]: http://www.apple.com/tw/safari/
 [vivaldi]: https://vivaldi.com/?lang=zh_TW
+[pentadactyl]: http://5digits.org/pentadactyl/index
 
+### Email Client (電子信箱)
+
+- [Thunderbird][thunderbird]
+ - [Muttator][muttator] - 讓 Thunderbird 可使用 vim like 的方式進行操作的 add-on。
+
+[thunderbird]: https://moztw.org/thunderbird/
+[muttator]: http://vimperator.org/muttator
 
 ### Burn & Image (光碟燒錄和映像檔)
 
