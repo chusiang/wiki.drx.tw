@@ -1,5 +1,10 @@
 # 簡報 & 投影片 (Presentation & slides)
 
+## 2017
+
+* 03.09 / [Automate with Ansible basic (2/e, English)](https://speakerdeck.com/chusiang/e-english) / [mirror](https://www.slideshare.net/freezejonny/automate-with-ansible-basic-2e-en)
+
+
 ## 2016
 
 * 07.16 / [現代 IT 人一定要知道的 Ansible 自動化組態技巧 Ⅱ - Roles & Windows](https://speakerdeck.com/chusiang/xian-dai-it-ren-ding-yao-zhi-dao-de-ansible-zi-dong-hua-zu-tai-ji-qiao-ii-roles-and-windows) / [mirror](http://www.slideshare.net/freezejonny/it-ansible-64079747) / [活動網址](http://studyarea.kktix.cc/events/c6457aff)
