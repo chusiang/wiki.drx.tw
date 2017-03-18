@@ -5,6 +5,10 @@
 - [iThome 新聞](http://www.ithome.com.tw/rss)
 - [infoQ CN](http://www.infoq.com/cn/feed)
 
+### Cloud
+
+- [AWS China](https://www.amazonaws.cn/new/feed/)
+
 ### DevOps
 
 - [Ansible Blog](https://www.ansible.com/blog/rss.xml)
@@ -18,4 +22,5 @@
 
 ### Blog
 
+- [AWS Blog (China)](https://aws.amazon.com/cn/blogs/china/)
 - [免費資源網路社群](http://feeds.feedburner.com/freegroup/)
