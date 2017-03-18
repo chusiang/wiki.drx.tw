@@ -7,7 +7,8 @@
 
 ### Cloud
 
-- [AWS China](https://www.amazonaws.cn/new/feed/)
+- [AWS News)](https://aws.amazon.com/new/feed/)
+- [AWS News (China)](https://www.amazonaws.cn/new/feed/)
 
 ### DevOps
 
