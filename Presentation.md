@@ -2,8 +2,10 @@
 
 ## 2017
 
-* 03.09 / [Automate with Ansible basic (2/e, English)](https://speakerdeck.com/chusiang/e-english) / [mirror](https://www.slideshare.net/freezejonny/automate-with-ansible-basic-2e-en)
-
+* 03.21 / [現代 IT 人一定要知道的 Ansible 自動化組態技巧 \(3/e\)](https://speakerdeck.com/chusiang/e-1) / [mirror](https://www.slideshare.net/freezejonny/automate-with-ansible-basic-3e) / [活動網址](http://tossug.kktix.cc/events/b3ebffa1-363c69)
+* 03.18 / [混用 Ansible 建置 Docker image](https://speakerdeck.com/chusiang/hun-yong-ansible-jian-zhi-docker-image) / [mirror](https://www.slideshare.net/freezejonny/ansible-docker-image) / [活動網址](https://www.meetup.com/Docker-Taipei/events/237978710/)
+* 03.10 / [Automate with Ansible basic (2/e, English)](https://speakerdeck.com/chusiang/e-english) / [mirror](https://www.slideshare.net/freezejonny/automate-with-ansible-basic-2e-en)
+* 03.09 / [現代 IT 人一定要知道的 Ansible 自動化組態技巧 (2/e)](https://speakerdeck.com/chusiang/e-2) / [mirror](https://www.slideshare.net/freezejonny/automate-with-ansible-basic-2nd)
 
 ## 2016
 
@@ -18,15 +20,15 @@
 
 ## 2014
 
-* 11.24 [關於我](http://rvl.drx.tw/2014-11-24-about-me.html)
-* 02.25 [Gerrit x Jenkins](http://rvl.drx.tw/2014-02-25-gerrit-x-jenkins.html#/)
+* 11.24 / [關於我](http://rvl.drx.tw/2014-11-24-about-me.html)
+* 02.25 / [Gerrit x Jenkins](http://rvl.drx.tw/2014-02-25-gerrit-x-jenkins.html#/)
 
 ## 2013
 
-* 11.23 [凍仁的 IT 工作史](http://rvl.drx.tw/2013-11-23-my-it-history.html#/) 
-* 06.30 [使用 Multi-sites 技術快速建置多 Drupal 網站](http://rvl.drx.tw/2013-06-30-d7-multi-site.html#/) / [活動網址](https://drupaltaiwan.org/forum/20130528/7429)
-* 04.20 [使用 Multi-sites 技術快速建置多 Drupal 網站](http://chusiang.github.io/impress.js/2013-04-20-d7-multi-site.html#/bored) / [活動網址](https://drupaltaiwan.org/forum/20130528/7428)
-* 02.27 [關於我](http://chusiang.github.io/impress.js/2013-02-27-about-me.html#/bored)
+* 11.23 / [凍仁的 IT 工作史](http://rvl.drx.tw/2013-11-23-my-it-history.html#/) 
+* 06.30 / [使用 Multi-sites 技術快速建置多 Drupal 網站](http://rvl.drx.tw/2013-06-30-d7-multi-site.html#/) / [活動網址](https://drupaltaiwan.org/forum/20130528/7429)
+* 04.20 / [使用 Multi-sites 技術快速建置多 Drupal 網站](http://chusiang.github.io/impress.js/2013-04-20-d7-multi-site.html#/bored) / [活動網址](https://drupaltaiwan.org/forum/20130528/7428)
+* 02.27 / [關於我](http://chusiang.github.io/impress.js/2013-02-27-about-me.html#/bored)
 
 ## 2012
 
@@ -36,7 +38,7 @@
 ## 2010
 
 * 11.20 / [Unity & Googlizer](http://www.slideshare.net/freezejonny/ubuntureleaseparty) / [活動網址](https://docs.google.com/document/d/1J4oGJYS3WQEovB3qHEAcVScyx_dAwSfBEcCeT9yVJ94/edit?hl=zh_TW#)
- * Ubuntu 10.10 Release Party @Taipei 101
+  * Ubuntu 10.10 Release Party @Taipei 101
 * 04.10 / [Ubuntu 藍星侵略計劃](http://www.slideshare.net/freezejonny/990414ubuntubluestar)
 * 01.16 / [Intro of Network, WiFi on Ubuntu](http://www.slideshare.net/freezejonny/ubutwkh2-internet)
 
