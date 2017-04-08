@@ -1,0 +1,7 @@
+{
+    "useSideMenu": true,
+    "lineBreaks": "gfm",
+    "additionalFooterText": "foo",
+    "anchorCharacter": "#;",
+    "title": "Wiki | chusiang"
+}
