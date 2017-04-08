@@ -14,5 +14,5 @@
  * [ASCII Art](ASCII-Art.md)
  * [RSS](RSS.md)
 
-[gimmick:theme](crborg)
+[gimmick:theme](cyborg)
 [gimmick:ThemeChooser](Change theme)
