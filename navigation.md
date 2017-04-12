@@ -11,7 +11,7 @@
  * [DevOps Tools](DevOps-Tools.md)
  * [Glossary](glossary.md)
  * [Network](Networking.md)
- * [RSS](RSS.md)
+ * [RSS](rss.md)
  * [Security](Security.md)
  * [Software](Software.md)
  * [Text-Editor](Text-Editor.md)
