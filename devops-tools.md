@@ -57,7 +57,7 @@ Infrastructure as Code.
 
 ### Provisioning
 
-* [Vagrant](https://github.com/chusiang/chusiang.github.io/wiki/Vagrant)
+* [Vagrant](vagrant.md)
   * [Atlas](https://atlas.hashicorp.com/)
     * [chusiang | Atlas](https://atlas.hashicorp.com/chusiang/)
 
@@ -93,7 +93,7 @@ none.
 ## Bl / Monitoring
 
 * Nagios
-* [Zabbix](https://github.com/chusiang/chusiang.github.io/wiki/Zabbix)
+* [Zabbix](zabbix.md)
 * [Prometheus](https://prometheus.io)
 
 ## Logging

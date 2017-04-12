@@ -34,7 +34,7 @@
 
 ### Chef
 
-- [commandp/zabbix-agent: Zabbix agent install based off laradji/zabbix](https://github.com/commandp/zabbix-agent)
+- [chusiang/zabbix-agent: Zabbix agent install based off laradji/zabbix](https://github.com/chusiang/zabbix-agent.chef.cookbook)
 
 ## Extension
 
@@ -45,4 +45,3 @@
 - [Template App Nginx (thecamels)](https://github.com/thecamels/zabbix): 藉由 nginx-check.sh 和 User Parameters 來實作監控 Nginx sub status，並於 zabbix server 匯入 template。請參考 [Zabbix 监控 Nginx性能 (113) | 运维生存时间](http://www.ttlsa.com/zabbix/zabbix-monitor-nginx-performance/)一文。
 - [Template App Nginx (blacked)](https://github.com/blacked/zbx_nginx_template): 在已安裝 zabbix-agent 的 host 裡，使用排程執行 python script 以截取 nginx status，之後於 zabbix server 匯入 nginx 的 template。
 
-  
