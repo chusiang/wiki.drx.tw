@@ -2,6 +2,8 @@
 
 ## A
 
+- ansible: run a task on a target host(s).
+
 ## B
 
 ## C
@@ -14,9 +16,15 @@
 
 ## G
 
+- getenforce: get the current mode of SELinux.
+
 ## H
 
+- httpstat: curl statistics made simple. [(more)](https://github.com/reorx/httpstat)
+
 ## I
+
+- ip: show / manipulate routing, devices, policy routing and tunnels.
 
 ## J
 
@@ -25,6 +33,8 @@
 ## L
 
 ## M
+
+- man: an interface to the on-line reference manuals.
 
 ## N
 
@@ -40,6 +50,9 @@
 ## R
 
 ## S
+
+- setenforce: modify the mode SELinux is running in.
+- systemctl: Control the systemd system and service manager.
 
 ## T
 
