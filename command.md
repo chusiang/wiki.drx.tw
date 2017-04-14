@@ -45,6 +45,10 @@
 
 ## P
 
+- pbcopy, pbpaste: provide copying and pasting to the pasteboard (the Clipboard) from command line (for macOS).
+- pwgen: Automatic password generation.
+ - [pwgen 快速產生密碼工具 | Lucasyang0626](http://lucasyang0626.wixsite.com/lucasyang/single-post/2016/08/14/pwgen-%E5%BF%AB%E9%80%9F%E7%94%A2%E7%94%9F%E5%AF%86%E7%A2%BC%E5%B7%A5%E5%85%B7)
+
 ## Q
 
 ## R
@@ -63,6 +67,8 @@
 ## W
 
 ## X
+
+- xclip: Command line clipboard grabber.
 
 ## Y
 
