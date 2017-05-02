@@ -167,7 +167,7 @@
 
 [piwik]: https://piwik.org/
 
-### Window Management
+### Window Management (視窗管理)
 
 * [Spectacle][spectacle] - Open Source window manager. [ macOS ]
 * Compiz - window manager [ Linux ]
@@ -181,3 +181,13 @@
 
 [alfred]: https://www.alfredapp.com/
 [wox]: https://github.com/Wox-launcher/Wox
+
+### Remote Management (遠端管理)
+
+- [PieTTY][pietty] - 小巧方便的 Telnet/SSH 安全遠端連線程式， 但用於非英語系文字時有非常多的問題， 而且它對於初學者來說過於複雜的使用界面也為人詬病已久。(年久失修的 ssh client) [ Windows ]
+- [mRemoteNG][mRemoteNG] - The next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. [ Windows ]
+- [Xshell][Xshell] - a powerful terminal emulator that supports SSH, SFTP, TELNET, RLOGIN and SERIAL. [ Windows ]
+
+[pietty]: https://sites.google.com/view/pietty-project
+[mRemoteNG]: https://github.com/mRemoteNG/mRemoteNG
+[Xshell]: https://www.netsarang.com/products/xsh_overview.html
