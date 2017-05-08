@@ -6,6 +6,7 @@ Reference the https://xebialabs.com/periodic-table-of-devops-tools/ .
 * [GitHub](https://github.com/)
   * [chusiang | GitHub](https://github.com/chusiang/)
   * [chusiang | GitHub Awards](http://github-awards.com/users/search?login=chusiang)
+* [GitLab](https://about.gitlab.com/)
 * [Bitbucket](https://bitbucket.org/)
   * [chusiang | Bitbucket](https://bitbucket.org/chusiang/)
 
@@ -20,6 +21,8 @@ none.
 
 ## CI (Continuous Integration) & CD (Continuous Delivery)
 
+* [GitLab CI](https://about.gitlab.com/features/gitlab-ci-cd/)
+ * [Documentation | GitLab CI](https://docs.gitlab.com/ce/ci/#gitlab-continuous-integration-gitlab-ci)
 * [Jenkins](https://jenkins.io/)
 * [Travis CI](https://travis-ci.org/)
   * [chusiang | Travis CI](https://travis-ci.org/chusiang/)
@@ -30,7 +33,13 @@ none.
 
 * [Docker Hub](https://hub.docker.com/)
   * [chusiang | Docker Hub](https://hub.docker.com/u/chusiang/)
-* npm
+* [apk](https://wiki.alpinelinux.org/wiki/Alpine_Linux_package_management) - Alpine Linux package management.
+ * [Alpine packages | alpinelinux](https://pkgs.alpinelinux.org/packages)
+* apt - Advanced Package Tool.
+* [RubyGem](https://rubygems.org/) - Ruby community’s gem hosting service.
+* [Homebrew](https://brew.sh/) - The missing package manager for macOS.
+* [npm](https://www.npmjs.com/) - The package manager for JavaScript and the world’s largest software registry.
+* yum - Yellowdog Updater, Modified, an open-source command-line package-management utility for computers running the Linux operating system using the RPM Package Manager.
 
 ## Testing
 
@@ -86,9 +95,9 @@ none.
 ## Collaboration
 
 * Trello
-* HipChat
-* Slack
-* Rocket.Chat
+* [HipChat](https://www.hipchat.com/)
+* [Rocket.Chat](http://rocket.chat/)
+* [Slack](https://slack.com/)
 
 ## Bl / Monitoring
 
