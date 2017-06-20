@@ -98,6 +98,7 @@
 - [Black Screen][black_screen] - A terminal emulator for the 21st century.
 - [Cmder][cmder] - 具有 Linux 溫度的 Windows 命令提示字元。 [ Windows ]
 - [ConEmu][conemu] - A Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features. [ Windows ]
+- [Cool Retro Term][cool-retro-term] - A terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight. [ Linux ] [ OSX ]
 - Gnome Terminal
 - LXTerminal
 - iTerm 2
@@ -106,6 +107,7 @@
 [black_screen]: https://github.com/shockone/black-screen
 [cmder]: http://cmder.net
 [conemu]: https://conemu.github.io/
+[cool-retro-term]: https://github.com/Swordfish90/cool-retro-term
 
 ### Video Recording (視訊錄影)
 
