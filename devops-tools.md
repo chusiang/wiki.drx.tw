@@ -82,6 +82,8 @@ Infrastructure as Code.
 
 ## Cloud / IaaS / PaaS
 
+### Public Cloud
+
 * AWS
 * Azure
 * Google Cloud Platform
@@ -89,6 +91,12 @@ Infrastructure as Code.
 * DigitalOcean
 * Linode
 * Heroku
+
+### Private Cloud
+
+* Ceph
+* OpenStack
+* [Proxmox VE](https://www.proxmox.com/)
 
 ## Release Management
 
