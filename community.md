@@ -22,6 +22,7 @@
 若想回顧各個 Conference 的盛況，不妨觀看 [chusiang/irc_log](https://github.com/chusiang/irc_log)。
 
 1. COSCUP
+ 1. [COSCUP 2017](coscup-2017.md)
 1. OSDC Taiwan
 1. MOPCON
 1. DRBL / Clonezilla Conf
