@@ -11,6 +11,10 @@
  - https://twitter.com/coscup
  - https://www.facebook.com/coscup
  - https://www.youtube.com/user/thecoscup
+- COSCUP 通關 (COSCUP Pass) Apps
+ - Android: https://play.google.com/store/apps/details?id=org.coscup.ccip
+ - iOS: https://itunes.apple.com/tw/app/coscup-pass/id1128067951?mt=8
+ - Web: https://ccip-app.github.io/CCIP-Web-Bueno
 
 
 ## 議程表 (Schedule)
