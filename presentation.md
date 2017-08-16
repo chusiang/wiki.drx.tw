@@ -2,6 +2,7 @@
 
 ## 2017
 
+* 08.19 / DevOps 人一定要知道的 Ansible & GitLab 持續交付技巧​ (2/e) / mirror / [活動網址](https://devops.kktix.cc/events/meetup-kaohsiung-1)
 * 08.05 / [DevOps 人一定要知道的 Ansible & GitLab CI 持續交付技巧](https://speakerdeck.com/chusiang/continuous-delivery-with-ansible-x-gitlab-ci) / [mirror](https://www.slideshare.net/freezejonny/continuous-delivery-with-ansible-x-gitlab-ci) / [活動網址](http://coscup.org/2017/#/schedule)
 * 03.21 / [現代 IT 人一定要知道的 Ansible 自動化組態技巧 \(3/e\)](https://speakerdeck.com/chusiang/automate-with-ansible-basic-3e) / [mirror](https://www.slideshare.net/freezejonny/automate-with-ansible-basic-3e) / [活動網址](http://tossug.kktix.cc/events/b3ebffa1-363c69)
 * 03.18 / [混用 Ansible 建置 Docker image](https://speakerdeck.com/chusiang/the-mix-mode-of-ansible-and-docker) / [mirror](https://www.slideshare.net/freezejonny/ansible-docker-image) / [活動網址](https://www.meetup.com/Docker-Taipei/events/237978710/)
