@@ -7,9 +7,10 @@ This is a wiki for myself.
 * Name: Chu-Siang Lai
 * Email: *chusiang (at) drx.tw*
 * Blog:
-
  * Blogger: http://note.drx.tw
- * Medium: [@chusiang](https://medium.com/@chusiang)
-
-* Twitter: [@chusiang_lai](https://twitter.com/chusiang_lai)
-* GitHub: [@chusiang](https://github.com/chusiang)
+ * Medium: https://medium.com/@chusiang
+* Twitter: https://twitter.com/chusiang_lai
+* GitHub: https://github.com/chusiang
+* GitBook: https://www.gitbook.com/@chusiang
+* Speaker Deck: https://speakerdeck.com/chusiang
+* SlideShare: https://www.slideshare.net/freezejonny
