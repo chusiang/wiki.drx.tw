@@ -1,6 +1,7 @@
 # Wiki | Drx.tw
 
 [Blog](http://note.drx.tw)
+[Book](book.md)
 [Presentation](presentation.md)
 [To Read List](https://gist.github.com/chusiang/7b8a1db696ef31ab5192a88573a97765)
 [Community](community.md)
