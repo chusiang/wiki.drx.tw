@@ -20,7 +20,7 @@
 
 * Facebook: https://www.facebook.com/AgileTourHsinchu/
 
-### Agile Kaohsiung
+### 敏捷高雄 (Agile Kaohsiung)
 
 * Facebook: https://www.facebook.com/groups/agile.kaohsiung/
 
