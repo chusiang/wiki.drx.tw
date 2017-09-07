@@ -9,6 +9,7 @@
 1. [AWS User Group Taiwan](https://www.facebook.com/groups/awsugtw/)
 1. [DevOps Taiwan User Group](https://www.facebook.com/groups/DevOpsTaiwan/)
 1. [Ansible Taiwan User Group](http://ansible.tw/#!index.md)
+1. [Agile Community Taiwan](agile-community-tw.md)
 
 ## Meetup
 
@@ -22,10 +23,28 @@
 若想回顧各個 Conference 的盛況，不妨觀看 [chusiang/irc_log](https://github.com/chusiang/irc_log)。
 
 1. COSCUP
- 1. [COSCUP 2017](coscup-2017.md)
+  1. COSCUP 2008
+  1. COSCUP 2009
+  1. COSCUP 2010
+  1. COSCUP 2011
+  1. COSCUP 2012
+  1. COSCUP 2013
+  1. COSCUP 2014
+  1. COSCUP 2015
+  1. COSCUP 2016
+  1. [COSCUP 2017](coscup-2017.md)
 1. OSDC Taiwan
+  1. COSCUP 2010
 1. MOPCON
+  1. MOPCON 2012
+  1. MOPCON 2013
+  1. MOPCON 2014
+  1. MOPCON 2015
 1. DRBL / Clonezilla Conf
 1. PyCon Taiwan
+  1. PyCon Taiwan 2015
 1. Container Summit
+  1. Container Summit 2016
+1. DevOpsDays Taipei
+  1. DevOpsDays Taipei 2017
 
