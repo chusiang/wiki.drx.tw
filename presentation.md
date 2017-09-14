@@ -2,7 +2,7 @@
 
 ## 2017
 
-* 11.11 / DevOps 人一定要知道的持續交付技巧 - Ansible & GitLab CI 實戰演練 - Study-Area Tainan
+* 11.11 / DevOps 人一定要知道的持續交付技巧 - Ansible & GitLab CI 實戰演練 - Study-Area Tainan / [活動網址](http://phorum.study-area.org/index.php/topic,72062.0.html)
 * 10.15 / DevOps 人一定要知道的持續交付技巧 - Ansible & GitLab CI 實戰演練 - DigitalOcean Hsinchu
 * 09.05 / [我如何入門 DevOps](https://speakerdeck.com/chusiang/how-do-i-get-started-the-devops) / [mirror](https://www.slideshare.net/freezejonny/how-do-i-get-started-the-devops) / [活動網址](https://devopsdays.tw/)
 * 08.19 / [DevOps 人一定要知道的 Ansible & GitLab CI 持續交付技巧 (2/e)](https://speakerdeck.com/chusiang/continuous-delivery-with-ansible-x-gitlab-ci-2e) / [mirror](https://www.slideshare.net/freezejonny/continuous-delivery-withansible-x-gitlab-ci-2e) / [活動網址](https://devops.kktix.cc/events/meetup-kaohsiung-1)
