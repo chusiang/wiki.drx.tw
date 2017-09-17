@@ -15,7 +15,11 @@
  - Android: https://play.google.com/store/apps/details?id=org.coscup.ccip
  - iOS: https://itunes.apple.com/tw/app/coscup-pass/id1128067951?mt=8
  - Web: https://ccip-app.github.io/CCIP-Web-Bueno
-
+- 活動照片：
+ - 場佈: https://www.flickr.com/photos/coscup/sets/72157684829474334
+ - 講者晚宴: https://www.flickr.com/photos/coscup/sets/72157684846980823
+ - Day1: https://www.flickr.com/photos/coscup/albums/72157683871724342 
+ - Day2: https://www.flickr.com/photos/coscup/sets/72157685024235343
 
 ## 議程表 (Schedule)
 
