@@ -112,12 +112,12 @@
 ### Video Recording (視訊錄影)
 
 - CamStudio
+- [LICEcap][licecap] - Capture an area of your desktop and save it directly to .GIF (for viewing in web browsers, etc) or .LCF (see below). [ Windows ][ Linux ]
 - [OBS Studio][obs] - Open Broadcaster Software is free and open source software for video recording and live streaming.
 - QuickTime Player
-- [KeyCastr][keycastr]: An open-source keystroke visualizer. [ OSX ]
 
-[keycastr]: https://github.com/keycastr/keycastr
 [obs]: https://obsproject.com
+[licecap]: https://www.cockos.com/licecap/
 
 
 ### Virtual CD (虛擬光碟)
@@ -194,3 +194,9 @@
 [pietty]: https://sites.google.com/view/pietty-project
 [mRemoteNG]: https://github.com/mRemoteNG/mRemoteNG
 [Xshell]: https://www.netsarang.com/products/xsh_overview.html
+
+### Presentation 簡報軟體
+
+- [KeyCastr][keycastr]: An open-source keystroke visualizer. [ OSX ]
+
+[keycastr]: https://github.com/keycastr/keycastr
