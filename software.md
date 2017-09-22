@@ -12,9 +12,7 @@
 [floss]: https://zh.wikipedia.org/wiki/自由及开放源代码软件
 
 
-## 軟體列表 (Software List)
-
-### IME (輸入法編輯器)
+## IME (輸入法編輯器)
 
 - [嘸蝦米輸入法][ovff] [Windows / Mac / Android]
 - [許氏注音輸入法](hsu-key)
@@ -28,7 +26,7 @@
 [gcin]: http://hyperrate.com/dir.php?eid=67
 
 
-### Browser (瀏覽器)
+## Browser (瀏覽器)
 
 * [Mozilla Firefox (火狐)][firefox] / [Mozilla 台灣社群][moztw]
  - [Pentadactyl][pentadactyl] - 讓 Firefox 可使用 vim like 的方式進行操作的 add-on。
@@ -43,7 +41,8 @@
 [vivaldi]: https://vivaldi.com/?lang=zh_TW
 [pentadactyl]: http://5digits.org/pentadactyl/index
 
-### Email Client (電子信箱)
+
+## Email Client (電子信箱)
 
 - [Thunderbird][thunderbird]
  - [Muttator][muttator] - 讓 Thunderbird 可使用 vim like 的方式進行操作的 add-on。
@@ -51,7 +50,8 @@
 [thunderbird]: https://moztw.org/thunderbird/
 [muttator]: http://vimperator.org/muttator
 
-### Burn & Image (光碟燒錄和映像檔)
+
+## Burn & Image (光碟燒錄和映像檔)
 
 - CDBurnerXP - 支援中文語系。 [ Windows ]
 - ImgBurm [ Windows ]
@@ -59,7 +59,8 @@
 - Ultra ISO Premium Edition - ISO 製作、編輯。 [ Windows ]
 - WinISO - 映像檔編輯工具。 [ Windows ]
 
-### Clone & Backup
+
+## Clone & Backup
 
 - [Clonezilla][clonezilla] - 由國網中心所維護的自由軟體，除了可以單機客隆 Windows, Linux ... 之外、還可搭配 Clonezilla server 和 DRBL 進行大量部署。
 - [FSArchiver][fsarchiver]
@@ -69,11 +70,13 @@
 [fsarchiver]: http://www.fsarchiver.org/
 [partimage]: http://www.partimage.org/
 
-### Finance (財務管理)
+
+## Finance (財務管理)
 
 - GunCash - Gnome 的財務管理軟體，可建立不同帳戶使用，除個人使用外，中小企業更可以利用它來管理員工的開支，或是顧客與供應商的交易。
 
-### Text Editor (純文字編輯器)
+
+## Text Editor (純文字編輯器)
 
 - [Vim][vim] / [Vim 正體中文社群][vim_tw]
 - [Emacs][emacs] / [Emacs 台灣社群][emacs_tw]
@@ -86,14 +89,16 @@
 [emacs_tw]: http://emacser.tw
 [joe]: http://joe-editor.sourceforge.net/
 
-### Console Emulator (操緃臺)
+
+## Console Emulator (操緃臺)
 
 - Bash
 - Cygwin [ Windows ]
 - PowerShell [ Windows ]
 - Zsh
 
-### Terminal Emulator (終端機)
+
+## Terminal Emulator (終端機)
 
 - [Black Screen][black_screen] - A terminal emulator for the 21st century.
 - [Cmder][cmder] - 具有 Linux 溫度的 Windows 命令提示字元。 [ Windows ]
@@ -109,7 +114,8 @@
 [conemu]: https://conemu.github.io/
 [cool-retro-term]: https://github.com/Swordfish90/cool-retro-term
 
-### Video Recording (視訊錄影)
+
+## Video Recording (視訊錄影)
 
 - CamStudio
 - [LICEcap][licecap] - Capture an area of your desktop and save it directly to .GIF (for viewing in web browsers, etc) or .LCF (see below). [ Windows ][ Linux ]
@@ -120,20 +126,23 @@
 [licecap]: https://www.cockos.com/licecap/
 
 
-### Virtual CD (虛擬光碟)
+## Virtual CD (虛擬光碟)
 
 - Alcohol 52%, 120% [ Windows ]
 - MagicDisk [ Windows ]
 - Daemon Tool [ Windows ]
 
 
-### Package Manager (套件管理員)
+## Package Manager (套件管理員)
 
+- apt
+- yum
 - [Chocolatey](chocolatey) - A PowerShell base package manager. [Windows]
 
 [chocolatey]: https://chocolatey.org/
 
-### File Manager (檔案管理員)
+
+## File Manager (檔案管理員)
 
 - nautilus - gnome 預設的檔案管理員，新版也納入分頁功能。 [ Linux ]
 - [PCMan File Manager][pcmanfm] - 集輕巧與分頁功能的檔案管理員。 [ Linux ]
@@ -150,7 +159,8 @@
 [tag2find]: http://www.tag2find.com/tag2find0.0.html
 [qdir]: http://www.softwareok.com/?seite=Freeware/Q-Dir
 
-### Virtual Machine (虛擬機器)
+
+## Virtual Machine (虛擬機器)
 
 - [VirtualBox][virtualbox] - Open source 的虛擬機器軟體。
 - VMware
@@ -164,20 +174,23 @@
 [proxmox]: https://www.proxmox.com/
 [virtualbox]: https://www.virtualbox.org/
 
-### 分析 (Analytics)
+
+## 分析 (Analytics)
 
 * [Piwik][piwik]
 
 [piwik]: https://piwik.org/
 
-### Window Management (視窗管理)
+
+## Window Management (視窗管理)
 
 * [Spectacle][spectacle] - Open Source window manager. [ macOS ]
 * Compiz - window manager [ Linux ]
 
 [spectacle]: https://www.spectacleapp.com/
 
-### Productivity (生產力)
+
+## Productivity (生產力)
 
 - [Alfred][alfred] [ macOS ]
 - [Wox][wox] [ Windows ]
@@ -185,7 +198,8 @@
 [alfred]: https://www.alfredapp.com/
 [wox]: https://github.com/Wox-launcher/Wox
 
-### Remote Management (遠端管理)
+
+## Remote Management (遠端管理)
 
 - [PieTTY][pietty] - 小巧方便的 Telnet/SSH 安全遠端連線程式， 但用於非英語系文字時有非常多的問題， 而且它對於初學者來說過於複雜的使用界面也為人詬病已久。(年久失修的 ssh client) [ Windows ]
 - [mRemoteNG][mRemoteNG] - The next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. [ Windows ]
@@ -195,8 +209,10 @@
 [mRemoteNG]: https://github.com/mRemoteNG/mRemoteNG
 [Xshell]: https://www.netsarang.com/products/xsh_overview.html
 
-### Presentation 簡報軟體
+
+## Presentation 簡報軟體
 
 - [KeyCastr][keycastr]: An open-source keystroke visualizer. [ OSX ]
 
 [keycastr]: https://github.com/keycastr/keycastr
+
