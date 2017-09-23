@@ -172,9 +172,11 @@
 
 ### Window Management (視窗管理)
 
-* [Spectacle][spectacle] - Open Source window manager. [ macOS ]
 * Compiz - window manager [ Linux ]
+* [Divvy][divvy] - Window management at its finest. [ macOS ]
+* [Spectacle][spectacle] - Open Source window manager. [ macOS ]
 
+[divvy]: http://mizage.com/divvy/
 [spectacle]: https://www.spectacleapp.com/
 
 ### Productivity (生產力)
