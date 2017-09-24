@@ -10,6 +10,7 @@
  * [ASCII Art](ascii-art.md)
  * [Command](command.md)
  * [DevOps Tools](devops-tools.md)
+ * [Font](font.md)
  * [Glossary](glossary.md)
  * [Networking](networking.md)
  * [RSS](rss.md)
