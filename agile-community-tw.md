@@ -32,7 +32,7 @@
 
 ### 2017
 
-* 12/16 台北敏捷之旅 (Agile Tour Taipei)
+* 12/16 [台北敏捷之旅 (Agile Tour Taipei)](https://agilecommtw.kktix.cc/events/agiletourtaipei2017)
 * 12/09 [高雄敏捷之旅 (Agile Tour Kaohsiung)](https://www.accupass.com/event/1709111042501613360068)
 * 12/02 [新竹敏捷之旅 (Agile Tour Hsinchu)](https://agilecommtw.kktix.cc/events/athsinchu2017d1)
 
