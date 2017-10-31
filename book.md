@@ -12,6 +12,7 @@
 * 定價：Free
 * 語言：繁體中文
 * GitBook: https://www.gitbook.com/book/chusiang/automate-with-ansible/details
+  * Short link: http://s.drx.tw/ansiblebook
 * GitHub: https://github.com/chusiang/automate-with-ansible
 * License: CC BY-NC-SA 3.0
 
@@ -33,6 +34,7 @@ Ansible 是個與 Puppet, SaltStack, Chef 並駕齊驅的組態設定 (Infrastru
 * 定價：Free
 * 語言：繁體中文
 * GitBook: https://www.gitbook.com/book/chusiang/working-on-gnu-linux/details
+  * Short link: http://s.drx.tw/linuxbook
 * GitHub: https://github.com/chusiang/working-on-gnu-linux
 * License: CC BY-NC-SA 3.0
 
