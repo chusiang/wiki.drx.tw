@@ -1,7 +1,7 @@
 {
     "useSideMenu": true,
     "lineBreaks": "gfm",
-    "additionalFooterText": "foo",
+    "additionalFooterText": "wiki.drx.tw ",
     "anchorCharacter": "#;",
     "title": "Wiki | Drx.tw"
 }
