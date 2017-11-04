@@ -18,5 +18,5 @@
  * [Software](software.md)
  * [Text-Editor](text-editor.md)
 
-[gimmick:theme](cyborg)
+[gimmick:theme](slate)
 [gimmick:ThemeChooser](Change theme)
