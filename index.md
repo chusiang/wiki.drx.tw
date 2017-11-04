@@ -5,6 +5,7 @@ This is a wiki for myself.
 ## About Me
 
 * Name: Chu-Siang Lai
+* Nick Name: 凍仁．翔
 * Email: *chusiang (at) drx.tw*
 * Blog:
  * Blogger: http://note.drx.tw
