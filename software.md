@@ -181,10 +181,11 @@
 
 ## 分析 (Analytics)
 
-* [Piwik][piwik]
+* [lnav][lnav] - The Log File Navigator.
+* [Piwik][piwik] - An open analytics platform currently used by individuals, companies and governments all over the world.
 
+[lnav]: http://lnav.org/
 [piwik]: https://piwik.org/
-
 
 ## Window Management (視窗管理)
 
