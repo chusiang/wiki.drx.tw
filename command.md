@@ -66,6 +66,7 @@
 ## S
 
 - setenforce - modify the mode SELinux is running in.
+- [sysctl](commands/sysctl.md) - get or set kernel state.
 - systemctl - Control the systemd system and service manager.
 
 ## T
