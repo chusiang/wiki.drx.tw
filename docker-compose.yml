@@ -1,0 +1,10 @@
+version: '2'
+services:
+
+  wiki:
+    volumes:
+      - .:/usr/share/nginx/html
+    ports:
+      - 80:80/tcp
+    image: nginx
+
