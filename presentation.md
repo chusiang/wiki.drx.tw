@@ -6,7 +6,7 @@
 
 ## 2017
 
-* 12.09 / 從一個人的 DevOps，到一個 DevOps 的團隊 @ [Agile Tour Kaohsiung 2017](https://www.accupass.com/event/1709111042501613360068)
+* 12.09 / [從一個人的 DevOps，到一個 DevOps 的團隊](https://speakerdeck.com/chusiang/my-devops-tour) @ [Agile Tour Kaohsiung 2017](https://www.accupass.com/event/1709111042501613360068) / [mirror](https://www.slideshare.net/freezejonny/my-devops-tour-83671273/freezejonny/my-devops-tour-83671273)
 * 11.25 / [DevOps 人一定要知道的持續交付技巧 - Ansible & GitLab CI 實戰演練](https://speakerdeck.com/chusiang/continuous-delivery-workshop-with-ansible-x-gitlab-ci-3rd) @ 國立臺中科技大學 - 資訊與流通學院 / [mirror](https://www.slideshare.net/freezejonny/continuous-delivery-workshop-with-ansible-x-gitlab-ci-3rd-82780117)
 * 11.11 / [DevOps 人一定要知道的持續交付技巧 - Ansible & GitLab CI 實戰演練](https://speakerdeck.com/chusiang/continuous-delivery-workshop-with-ansible-x-gitlab-ci-2nd-plus) @ [Study-Area Tainan](http://phorum.study-area.org/index.php/topic,72062.0.html) / [mirror](https://www.slideshare.net/freezejonny/continuous-delivery-workshop-with-ansible-x-gitlab-ci-2nd-81917906) / [Gist](https://gist.github.com/chusiang/56843a737b8c3931c1736d6939a4e172)
 * 10.15 / [DevOps 人一定要知道的持續交付技巧 - Ansible & GitLab CI 實戰演練](https://speakerdeck.com/chusiang/continuous-delivery-workshop-with-ansible-x-gitlab-ci) @ [DigitalOcean Hsinchu](https://www.meetup.com/DigitalOceanHsinchu/events/243518189/) / [mirror](https://www.slideshare.net/freezejonny/continuous-delivery-workshop-with-ansible-x-gitlab-ci) / [Gist](https://gist.github.com/chusiang/56843a737b8c3931c1736d6939a4e172)
