@@ -2,7 +2,7 @@
 
 ## 2018
 
-* 01.13 / DevOps 人一定要知道的持續交付技巧 - Ansible & GitLab CI 實戰演練 @ Agile Tour Taichung 2018
+* 01.13 / DevOps 人一定要知道的持續交付技巧 - Ansible & GitLab CI 實戰演練 @ [Agile Tour Taichung 2018](https://www.accupass.com/event/1711280738178163006690)
 
 ## 2017
 
