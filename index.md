@@ -8,7 +8,7 @@ This is a wiki for myself.
 * Nick Name: 凍仁．翔
 * Email: *chusiang (at) drx.tw*
 * Blog:
- * Blogger: http://note.drx.tw
+ * Blogger: https://note.drx.tw
  * Medium: https://medium.com/@chusiang
 * Twitter: https://twitter.com/chusiang_lai
 * GitHub: https://github.com/chusiang
