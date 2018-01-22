@@ -2,7 +2,7 @@
 
 ## 2018
 
-* 01.21 / IT 人一定要知道的寫作技巧 @ Secret
+* 01.21 / [IT 人一定要知道的寫作技巧](https://speakerdeck.com/chusiang/writing-skills-for-information-technology) @ Microsoft Taiwan / [mirror](https://www.slideshare.net/freezejonny/writing-skills-for-information-technology)
 * 01.13 / [DevOps 人一定要知道的持續交付技巧 - Ansible & GitLab CI 實戰演練](https://speakerdeck.com/chusiang/continuous-delivery-workshop-with-ansible-x-gitlab-ci-5th) @ [Agile Tour Taichung 2018](https://www.accupass.com/event/1711280738178163006690) / [mirror](https://www.slideshare.net/freezejonny/continuous-delivery-workshop-with-ansible-x-gitlab-ci-5th/freezejonny/continuous-delivery-workshop-with-ansible-x-gitlab-ci-5th)
 * 01.09 / 前端工程師一定要知道的持續交付技巧 @ L9k Inc.
 * 01.06 / [推廣 Agile Tour Taichung 2017](https://speakerdeck.com/chusiang/promo-the-agile-tour-taichung-2017) @ [Study4Love 與大師對談](https://study4-tw.kktix.cc/events/study4love2018) / [mirror](https://www.slideshare.net/freezejonny/promo-the-agile-tour-taichung-2017/freezejonny/promo-the-agile-tour-taichung-2017)
