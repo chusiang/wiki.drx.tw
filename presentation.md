@@ -2,6 +2,7 @@
 
 ## 2018
 
+* 05.26 / [簡單易用的 Zabbix 監控服務](https://speakerdeck.com/chusiang/zabbix-the-easy-to-use-monitoring-tools) @ [DevOps Taiwan](https://devops.kktix.cc/events/monitoring-tools) / [mirror](https://www.slideshare.net/freezejonny/zabbix-the-easy-to-use-monitoring-tools)
 * 04.28 / [怎麼無痛升級 Ansible](https://speakerdeck.com/chusiang/how-to-easy-upgrade-the-ansible) @ [DevOps Taiwan](https://kktix.com/events/meetup13-0428) / [mirror](https://www.slideshare.net/freezejonny/how-to-easy-upgrade-the-ansible)
 * 01.21 / [IT 人一定要知道的寫作技巧](https://speakerdeck.com/chusiang/writing-skills-for-information-technology) @ Microsoft Taiwan / [mirror](https://www.slideshare.net/freezejonny/writing-skills-for-information-technology)
 * 01.13 / [DevOps 人一定要知道的持續交付技巧 - Ansible & GitLab CI 實戰演練](https://speakerdeck.com/chusiang/continuous-delivery-workshop-with-ansible-x-gitlab-ci-5th) @ [Agile Tour Taichung 2018](https://www.accupass.com/event/1711280738178163006690) / [mirror](https://www.slideshare.net/freezejonny/continuous-delivery-workshop-with-ansible-x-gitlab-ci-5th/freezejonny/continuous-delivery-workshop-with-ansible-x-gitlab-ci-5th)
