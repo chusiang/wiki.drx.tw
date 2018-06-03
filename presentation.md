@@ -2,6 +2,7 @@
 
 ## 2018
 
+* 06.02 / DevOps 人一定要知道的持續交付工作坊 2.0 - Ansible & GitLab CI 實戰演練 @ [Agile Community](https://agilecommtw.kktix.cc/events/devopsworkshop2)
 * 05.26 / [簡單易用的 Zabbix 監控服務](https://speakerdeck.com/chusiang/zabbix-the-easy-to-use-monitoring-tools) @ [DevOps Taiwan](https://devops.kktix.cc/events/monitoring-tools) / [mirror](https://www.slideshare.net/freezejonny/zabbix-the-easy-to-use-monitoring-tools)
 * 04.28 / [怎麼無痛升級 Ansible](https://speakerdeck.com/chusiang/how-to-easy-upgrade-the-ansible) @ [DevOps Taiwan](https://kktix.com/events/meetup13-0428) / [mirror](https://www.slideshare.net/freezejonny/how-to-easy-upgrade-the-ansible)
 * 01.21 / [IT 人一定要知道的寫作技巧](https://speakerdeck.com/chusiang/writing-skills-for-information-technology) @ Microsoft Taiwan / [mirror](https://www.slideshare.net/freezejonny/writing-skills-for-information-technology)
@@ -41,7 +42,7 @@
 
 ## 2013
 
-* 11.23 / [凍仁的 IT 工作史](http://rvl.drx.tw/2013-11-23-my-it-history.html#/) 
+* 11.23 / [凍仁的 IT 工作史](http://rvl.drx.tw/2013-11-23-my-it-history.html#/)
 * 06.30 / [使用 Multi-sites 技術快速建置多 Drupal 網站](http://rvl.drx.tw/2013-06-30-d7-multi-site.html#/) @ [Drupal 高雄小聚](https://drupaltaiwan.org/forum/20130528/7429)
 * 04.20 / [使用 Multi-sites 技術快速建置多 Drupal 網站](http://chusiang.github.io/impress.js/2013-04-20-d7-multi-site.html#/bored) @ [Drupal 嘉義小聚](https://drupaltaiwan.org/forum/20130528/7428)
 * 02.27 / [關於我](http://chusiang.github.io/impress.js/2013-02-27-about-me.html#/bored)
