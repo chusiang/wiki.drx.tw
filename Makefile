@@ -1,4 +1,4 @@
-.PHONY: main init run status clean
+.PHONY: main init run status clean deploy_to_pages
 
 main: run
 
@@ -14,3 +14,9 @@ status:
 clean:
 	docker-compose stop wiki
 	docker-compose rm -f wiki
+	rm -rf public/
+
+deploy_to_pages:
+	mkdir 	public/
+	cp -r commands imgs public/
+	cp *.md public/
