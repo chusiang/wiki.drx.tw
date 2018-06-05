@@ -13,6 +13,7 @@ This is a wiki for myself.
 * Twitter: https://twitter.com/chusiang_lai
 * GitLab: https://gitlab.com/chusiang
 * GitHub: https://github.com/chusiang
+* GitLab: https://gitlab.com/chusiang
 * GitBook: https://www.gitbook.com/@chusiang
 * Speaker Deck: https://speakerdeck.com/chusiang
 * SlideShare: https://www.slideshare.net/freezejonny
