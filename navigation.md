@@ -3,7 +3,7 @@
 [Blog](https://note.drx.tw)
 [Book](book.md)
 [Presentation](presentation.md)
-[To Read Books](https://gist.github.com/chusiang/7b8a1db696ef31ab5192a88573a97765)
+[To Read Books](https://gitlab.com/chusiang/books2read/blob/master/README.md)
 [Community](community.md)
 [Computer Science]()
 
