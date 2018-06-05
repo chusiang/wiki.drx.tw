@@ -2,6 +2,8 @@
 
 This is a wiki for myself.
 
+> This project has migrated to GitLab, please see the [chusiang/wiki.drx.tw](https://gitlab.com/chusiang/wiki.drx.tw), thank you. #movingtogitlab
+
 ## About Me
 
 * Name: Chu-Siang Lai
