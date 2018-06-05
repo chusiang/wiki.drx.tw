@@ -1,6 +1,6 @@
 # Wiki | Drx.tw
 
-[Blog](http://note.drx.tw)
+[Blog](https://note.drx.tw)
 [Book](book.md)
 [Presentation](presentation.md)
 [To Read Books](https://gist.github.com/chusiang/7b8a1db696ef31ab5192a88573a97765)
