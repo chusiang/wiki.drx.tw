@@ -18,5 +18,6 @@ clean:
 
 deploy_to_pages:
 	mkdir 	public/
-	cp -r commands imgs public/
+	cp *.html public/
 	cp *.md public/
+	cp -r commands imgs public/
