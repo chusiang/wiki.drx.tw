@@ -200,9 +200,11 @@
 ## Productivity (生產力)
 
 - [Alfred][alfred] [ macOS ]
+- [Lightshot][lightshot] - 支援 Windows, macOS, Ubuntu, Chrome 的老牌截圖工具。
 - [Wox][wox] [ Windows ]
 
 [alfred]: https://www.alfredapp.com/
+[lightshot]: https://app.prntscr.com/
 [wox]: https://github.com/Wox-launcher/Wox
 
 
