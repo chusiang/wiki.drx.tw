@@ -2,6 +2,7 @@
 
 ## 2018
 
+* 06/29 / [從《心態致勝》看敏捷](https://speakerdeck.com/chusiang/see-the-agile-from-mindset) @ [Agile Summit 2018](https://summit.ithome.com.tw/agile/) / [Mirror](https://www.slideshare.net/freezejonny/see-the-agile-from-mindset)
 * 06.02 / DevOps 人一定要知道的持續交付工作坊 2.0 - Ansible & GitLab CI 實戰演練 @ [Agile Community](https://agilecommtw.kktix.cc/events/devopsworkshop2) / [Photos](https://www.facebook.com/pg/AgileTourHsinchu/photos/?tab=album&album_id=2010625705866297)
 * 05.26 / [簡單易用的 Zabbix 監控服務](https://speakerdeck.com/chusiang/zabbix-the-easy-to-use-monitoring-tools) @ [DevOps Taiwan](https://devops.kktix.cc/events/monitoring-tools) / [Mirror](https://www.slideshare.net/freezejonny/zabbix-the-easy-to-use-monitoring-tools)
 * 04.28 / [怎麼無痛升級 Ansible](https://speakerdeck.com/chusiang/how-to-easy-upgrade-the-ansible) @ [DevOps Taiwan](https://kktix.com/events/meetup13-0428) / [Mirror](https://www.slideshare.net/freezejonny/how-to-easy-upgrade-the-ansible)
