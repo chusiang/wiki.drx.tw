@@ -107,7 +107,7 @@
 - [Black Screen][black_screen] - A terminal emulator for the 21st century.
 - [Cmder][cmder] - 具有 Linux 溫度的 Windows 命令提示字元。 [ Windows ]
 - [ConEmu][conemu] - A Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features. [ Windows ]
-- [Cool Retro Term][cool-retro-term] - A terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight. [ Linux ] [ OSX ]
+- [Cool Retro Term][cool-retro-term] - A terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight. [ Linux ] [ macOS ]
 - Gnome Terminal
 - LXTerminal
 - [iTerm2][iterm2]
@@ -221,9 +221,9 @@
 
 ## Presentation 簡報軟體
 
-- [KeyCastr][keycastr]: An open-source keystroke visualizer. [ OSX ]
-- [Logitech Spotlight][logitech_spotlight]: Hardware presentation remote. [ Windows] [ OSX ]
-- [Mouseposé][mousepose]: A virtual laserpointer. [ OSX ]
+- [KeyCastr][keycastr]: An open-source keystroke visualizer. [ macOS ]
+- [Logitech Spotlight][logitech_spotlight]: Hardware presentation remote. [ Windows] [ macOS ]
+- [Mouseposé][mousepose]: A virtual laserpointer. [ macOS ]
 
 [keycastr]: https://github.com/keycastr/keycastr
 [logitech_spotlight]: https://www.logitech.com/zh-tw/product/spotlight-presentation-remote/page/spotlight-features
