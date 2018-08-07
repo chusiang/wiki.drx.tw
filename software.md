@@ -222,6 +222,9 @@
 ## Presentation 簡報軟體
 
 - [KeyCastr][keycastr]: An open-source keystroke visualizer. [ OSX ]
+- [Logitech Spotlight][logitech_spotlight]: Hardware presentation remote. [ Windows] [ OSX ]
+- [Mouseposé][mousepose]: A virtual laserpointer. [ OSX ]
 
 [keycastr]: https://github.com/keycastr/keycastr
-
+[logitech_spotlight]: https://www.logitech.com/zh-tw/product/spotlight-presentation-remote/page/spotlight-features
+[mousepose]: https://boinx.com/mousepose/overview/
