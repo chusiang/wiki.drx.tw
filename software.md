@@ -41,6 +41,11 @@
 [vivaldi]: https://vivaldi.com/?lang=zh_TW
 [pentadactyl]: http://5digits.org/pentadactyl/index
 
+## Download (下載)
+
+* [Transmission][transmission]: A fast, easy, and free BitTorrent client. [ Linux ] [ macOS ] [ Windows]
+
+[transmission]: https://transmissionbt.com/
 
 ## Email Client (電子信箱)
 
