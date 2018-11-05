@@ -36,11 +36,15 @@
 
 ### 2018
 
-* 01/13 [台中敏捷之旅 (Agile Tour Taichung)](https://www.accupass.com/event/1711280738178163006690)
+* 12/23 [台中敏捷之旅 2018 (Agile Tour Taichung 2018)](https://www.facebook.com/events/338973736880591/)
+* 12/15 [高雄敏捷之旅 2018 (Agile Tour Kaohsiung 2018)](https://agilekaohsiung.kktix.cc/events/agiletourkaohsiung2018)
+* 12/08 [新竹敏捷之旅 2018 (Agile Tour Hsinchu 2018)](https://agilecommtw.kktix.cc/events/agiletourhsinchu2018)
+* 12/01 [台北敏捷之旅 2018 (Agile Tour Taipei 2018)](https://agilecommtw.kktix.cc/events/agiletourtaipei2018)
+* 01/13 [台中敏捷之旅 2017 (Agile Tour Taichung 2017)](https://www.accupass.com/event/1711280738178163006690)
 
 ### 2017
 
-* 12/16 [台北敏捷之旅 (Agile Tour Taipei)](https://agilecommtw.kktix.cc/events/agiletourtaipei2017)
-* 12/09 [高雄敏捷之旅 (Agile Tour Kaohsiung)](https://www.accupass.com/event/1709111042501613360068)
-* 12/02 [新竹敏捷之旅 (Agile Tour Hsinchu)](https://agilecommtw.kktix.cc/events/athsinchu2017d1)
+* 12/16 [台北敏捷之旅 2017 (Agile Tour Taipei 2017)](https://agilecommtw.kktix.cc/events/agiletourtaipei2017)
+* 12/09 [高雄敏捷之旅 2017 (Agile Tour Kaohsiung 2017)](https://www.accupass.com/event/1709111042501613360068)
+* 12/02 [新竹敏捷之旅 2017 (Agile Tour Hsinchu 2017)](https://agilecommtw.kktix.cc/events/athsinchu2017d1)
 
