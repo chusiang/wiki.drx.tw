@@ -2,6 +2,7 @@
 
 ## 2018
 
+* 11.11 / [開場 & END](https://speakerdeck.com/chusiang/begin-and-end-of-ansible-taipei-meetup-1st) @ [Ansible Taipei Meetup #1](https://www.meetup.com/Ansible-Taipei/events/256005876/) / [KKTIX](https://devops.kktix.cc/events/ansible-taipei-1) / [Mirror](https://www.slideshare.net/freezejonny/begin-and-end-of-ansible-taipei-meetup-1st)
 * 06/29 / [從《心態致勝》看敏捷](https://speakerdeck.com/chusiang/see-the-agile-from-mindset) @ [Agile Summit 2018](https://summit.ithome.com.tw/agile/) / [Mirror](https://www.slideshare.net/freezejonny/see-the-agile-from-mindset)
 * 06.02 / DevOps 人一定要知道的持續交付工作坊 2.0 - Ansible & GitLab CI 實戰演練 @ [Agile Community](https://agilecommtw.kktix.cc/events/devopsworkshop2) / [Photos](https://www.facebook.com/pg/AgileTourHsinchu/photos/?tab=album&album_id=2010625705866297)
 * 05.26 / [簡單易用的 Zabbix 監控服務](https://speakerdeck.com/chusiang/zabbix-the-easy-to-use-monitoring-tools) @ [DevOps Taiwan](https://devops.kktix.cc/events/monitoring-tools) / [Mirror](https://www.slideshare.net/freezejonny/zabbix-the-easy-to-use-monitoring-tools)
