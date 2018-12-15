@@ -2,6 +2,7 @@
 
 ## 2018
 
+* 12.15 / [系統工程師的 DevOps 實踐之道](https://speakerdeck.com/chusiang/my-devops-tour-2-dot-1) @ [Agile Tour Kaohsiung 2018](https://agilekaohsiung.kktix.cc/events/agiletourkaohsiung2018)
 * 12.08 / [系統工程師的 DevOps 實踐之道](https://speakerdeck.com/chusiang/my-devops-tour-2-dot-0) @ [Agile Tour Hsinchu 2018](https://agilecommtw.kktix.cc/events/agiletourhsinchu2018)
 * 11.11 / [開場 & END](https://speakerdeck.com/chusiang/begin-and-end-of-ansible-taipei-meetup-1st) @ [Ansible Taipei Meetup #1](https://www.meetup.com/Ansible-Taipei/events/256005876/) / [KKTIX](https://devops.kktix.cc/events/ansible-taipei-1) / [Mirror](https://www.slideshare.net/freezejonny/begin-and-end-of-ansible-taipei-meetup-1st)
 * 06/29 / [從《心態致勝》看敏捷](https://speakerdeck.com/chusiang/see-the-agile-from-mindset) @ [Agile Summit 2018](https://summit.ithome.com.tw/agile/) / [Mirror](https://www.slideshare.net/freezejonny/see-the-agile-from-mindset)
