@@ -1,6 +1,6 @@
 # Home
 
-This is a wiki for myself.
+A wiki for chusiang.
 
 > This project has migrated to GitLab, please see the [chusiang/wiki.drx.tw](https://gitlab.com/chusiang/wiki.drx.tw), thank you. #movingtogitlab
 
@@ -15,7 +15,7 @@ This is a wiki for myself.
 * Twitter: https://twitter.com/chusiang_lai
 * GitLab: https://gitlab.com/chusiang
 * GitHub: https://github.com/chusiang
-* GitLab: https://gitlab.com/chusiang
 * GitBook: https://www.gitbook.com/@chusiang
 * Speaker Deck: https://speakerdeck.com/chusiang
 * SlideShare: https://www.slideshare.net/freezejonny
+* Taaze: http://s.drx.tw/taaze
