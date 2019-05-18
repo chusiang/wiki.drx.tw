@@ -1,11 +1,15 @@
 # 簡報 & 投影片 (Presentation & slides)
 
+## 2019
+
+* 05/17 / [見樹又見林的系統思考](https://speakerdeck.com/chusiang/systems-thinking-the-forest-and-the-tree) @ [Agile Summit 2019](https://summit.ithome.com.tw/agile/)
+
 ## 2018
 
 * 12.15 / [系統工程師的 DevOps 實踐之道](https://speakerdeck.com/chusiang/my-devops-tour-2-dot-1) @ [Agile Tour Kaohsiung 2018](https://agilekaohsiung.kktix.cc/events/agiletourkaohsiung2018) / [Mirror](https://www.slideshare.net/freezejonny/my-devops-tour-21)
 * 12.08 / [系統工程師的 DevOps 實踐之道](https://speakerdeck.com/chusiang/my-devops-tour-2-dot-0) @ [Agile Tour Hsinchu 2018](https://agilecommtw.kktix.cc/events/agiletourhsinchu2018) / [Mirror](https://www.slideshare.net/freezejonny/my-devops-tour-20)
 * 11.11 / [開場 & END](https://speakerdeck.com/chusiang/begin-and-end-of-ansible-taipei-meetup-1st) @ [Ansible Taipei Meetup #1](https://www.meetup.com/Ansible-Taipei/events/256005876/) / [KKTIX](https://devops.kktix.cc/events/ansible-taipei-1) / [Mirror](https://www.slideshare.net/freezejonny/begin-and-end-of-ansible-taipei-meetup-1st)
-* 06/29 / [從《心態致勝》看敏捷](https://speakerdeck.com/chusiang/see-the-agile-from-mindset) @ [Agile Summit 2018](https://summit.ithome.com.tw/agile/) / [Mirror](https://www.slideshare.net/freezejonny/see-the-agile-from-mindset)
+* 06/29 / [從《心態致勝》看敏捷](https://speakerdeck.com/chusiang/see-the-agile-from-mindset) @ [Agile Summit 2018](https://summit.ithome.com.tw/agile/2018/) / [Mirror](https://www.slideshare.net/freezejonny/see-the-agile-from-mindset)
 * 06.02 / DevOps 人一定要知道的持續交付工作坊 2.0 - Ansible & GitLab CI 實戰演練 @ [Agile Community](https://agilecommtw.kktix.cc/events/devopsworkshop2) / [Photos](https://www.facebook.com/pg/AgileTourHsinchu/photos/?tab=album&album_id=2010625705866297)
 * 05.26 / [簡單易用的 Zabbix 監控服務](https://speakerdeck.com/chusiang/zabbix-the-easy-to-use-monitoring-tools) @ [DevOps Taiwan](https://devops.kktix.cc/events/monitoring-tools) / [Mirror](https://www.slideshare.net/freezejonny/zabbix-the-easy-to-use-monitoring-tools)
 * 04.28 / [怎麼無痛升級 Ansible](https://speakerdeck.com/chusiang/how-to-easy-upgrade-the-ansible) @ [DevOps Taiwan](https://kktix.com/events/meetup13-0428) / [Mirror](https://www.slideshare.net/freezejonny/how-to-easy-upgrade-the-ansible)
