@@ -2,7 +2,8 @@
 
 ## 2019
 
-* 05/17 / [見樹又見林的系統思考](https://speakerdeck.com/chusiang/systems-thinking-the-forest-and-the-tree) @ [Agile Summit 2019](https://summit.ithome.com.tw/agile/)
+* 05.17 / [見樹又見林的系統思考](https://speakerdeck.com/chusiang/systems-thinking-the-forest-and-the-tree) @ [Agile Summit 2019](https://summit.ithome.com.tw/agile/)
+* 05.09 / 爆肝工程師的 RSI 傷痛之旅 @ Omplexity 系統思考同學會 2nd
 
 ## 2018
 
