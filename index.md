@@ -12,6 +12,7 @@ A wiki for chusiang.
 * Blog:
  * Blogger: https://note.drx.tw
  * Medium: https://medium.com/@chusiang
+* LinkedIn: https://www.linkedin.com/in/chusiang/
 * Twitter: https://twitter.com/chusiang_lai
 * GitLab: https://gitlab.com/chusiang
 * GitHub: https://github.com/chusiang
