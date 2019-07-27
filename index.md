@@ -20,11 +20,15 @@ The `drx.tw` domain name has be registered by chusiang from 2011-03-21. Naming f
  * Blogger: https://note.drx.tw
  * Medium: https://medium.com/@chusiang
 * LinkedIn: https://www.linkedin.com/in/chusiang/
+* Facebook: https://www.facebook.com/chusiang.lai
 * Twitter: https://twitter.com/chusiang_lai
 * GitLab: https://gitlab.com/chusiang
 * GitHub: https://github.com/chusiang
 * GitBook: https://www.gitbook.com/@chusiang
 * Speaker Deck: https://speakerdeck.com/chusiang
 * SlideShare: https://www.slideshare.net/freezejonny
+* Ansible Galaxy: https://galaxy.ansible.com/chusiang
+* Docker Hub: https://hub.docker.com/u/chusiang
 * HackMD: https://hackmd.io/@chusiang
+* Unsplash: https://unsplash.com/@chusiang
 * Taaze: http://s.drx.tw/taaze
