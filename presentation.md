@@ -2,6 +2,7 @@
 
 ## 2019
 
+* 08.17 / 系統工程師的打怪升級之旅 @ [COSCUP 2019](https://coscup.org/2019/programs/74c5eaa3-e026-4290-86aa-334653923c27/)
 * 05.17 / [見樹又見林的系統思考](https://speakerdeck.com/chusiang/systems-thinking-the-forest-and-the-tree) @ [Agile Summit 2019](https://summit.ithome.com.tw/agile/)
 * 05.09 / 爆肝工程師的 RSI 傷痛之旅 @ Omplexity 系統思考同學會 2nd
 
