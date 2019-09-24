@@ -215,19 +215,20 @@
 
 ## Remote Management (遠端管理)
 
+- [DBeaver][DBeaver] - Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. (Apache License version 2.0) [ Linux ] [ macOS ] [ Windows ]
 - [PieTTY][pietty] - 小巧方便的 Telnet/SSH 安全遠端連線程式， 但用於非英語系文字時有非常多的問題， 而且它對於初學者來說過於複雜的使用界面也為人詬病已久。(年久失修的 ssh client) [ Windows ]
-- [mRemoteNG][mRemoteNG] - The next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. [ Windows ]
 - [Xshell][Xshell] - a powerful terminal emulator that supports SSH, SFTP, TELNET, RLOGIN and SERIAL. [ Windows ]
+- [mRemoteNG][mRemoteNG] - The next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. [ Windows ]
 
+[DBeaver][DBeaver]: https://dbeaver.io
 [pietty]: https://sites.google.com/view/pietty-project
 [mRemoteNG]: https://github.com/mRemoteNG/mRemoteNG
 [Xshell]: https://www.netsarang.com/products/xsh_overview.html
 
-
 ## Presentation 簡報軟體
 
 - [KeyCastr][keycastr]: An open-source keystroke visualizer. [ macOS ]
-- [Logitech Spotlight][logitech_spotlight]: Hardware presentation remote. [ Windows] [ macOS ]
+- [Logitech Spotlight][logitech_spotlight]: Hardware presentation remote. [ Windows ] [ macOS ]
 - [Mouseposé][mousepose]: A virtual laserpointer. [ macOS ]
 
 [keycastr]: https://github.com/keycastr/keycastr
