@@ -33,6 +33,7 @@
 * [Google Chrome][chrome]
 * [Safari][safari]
 * [Vivaldi][vivaldi] - fork from Opera.
+* [JXplorer][jxplorer] - The cross platform LDAP browser and editor.
 
 [firefox]: https://moztw.org/firefox/
 [moztw]: https://moztw.org
@@ -40,6 +41,7 @@
 [safari]: http://www.apple.com/tw/safari/
 [vivaldi]: https://vivaldi.com/?lang=zh_TW
 [pentadactyl]: http://5digits.org/pentadactyl/index
+[jxplorer]: http://jxplorer.org/
 
 ## Download (下載)
 
