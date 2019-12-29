@@ -2,6 +2,7 @@
 
 ## 2019
 
+* 12.28 / [系統工程師的 DevOps 實踐之道 3/e](https://speakerdeck.com/chusiang/my-devops-tour-2-dot-3) @ [Agile Tour Taichung 2019](https://agilecommtw.kktix.cc/events/agiletourtaichung2019)
 * 12.21 / [系統工程師在敏捷團隊的求生之道](https://speakerdeck.com/chusiang/the-system-engineer-in-agile-team) @ [Agile Tour Kaohsiung 2019](https://agilecommtw.kktix.cc/events/agiletourkaohsiung2019)
 * 10.17 / [企業導入 Ansible 自動化真的容易嗎](https://speakerdeck.com/chusiang/is-it-really-easy-for-companies-to-import-ansible-automation) @ [DevOpsDays Taipei 2019](https://devopsdays.tw) / [HackMD](https://hackmd.io/s4V0iNgRSRicxcy6MMUbcA)
 * 08.17 / [系統工程師的打怪升級之旅](https://speakerdeck.com/chusiang/my-devops-tour-0-dot-1) @ [COSCUP 2019](https://coscup.org/2019/programs/74c5eaa3-e026-4290-86aa-334653923c27/) / [Mirror](https://www.slideshare.net/freezejonny/my-devops-tour-01)
@@ -10,7 +11,7 @@
 
 ## 2018
 
-* 12.15 / [系統工程師的 DevOps 實踐之道](https://speakerdeck.com/chusiang/my-devops-tour-2-dot-1) @ [Agile Tour Kaohsiung 2018](https://agilekaohsiung.kktix.cc/events/agiletourkaohsiung2018) / [Mirror](https://www.slideshare.net/freezejonny/my-devops-tour-21)
+* 12.15 / [系統工程師的 DevOps 實踐之道 2/e](https://speakerdeck.com/chusiang/my-devops-tour-2-dot-1) @ [Agile Tour Kaohsiung 2018](https://agilekaohsiung.kktix.cc/events/agiletourkaohsiung2018) / [Mirror](https://www.slideshare.net/freezejonny/my-devops-tour-21)
 * 12.08 / [系統工程師的 DevOps 實踐之道](https://speakerdeck.com/chusiang/my-devops-tour-2-dot-0) @ [Agile Tour Hsinchu 2018](https://agilecommtw.kktix.cc/events/agiletourhsinchu2018) / [Mirror](https://www.slideshare.net/freezejonny/my-devops-tour-20)
 * 11.11 / [開場 & END](https://speakerdeck.com/chusiang/begin-and-end-of-ansible-taipei-meetup-1st) @ [Ansible Taipei Meetup #1](https://www.meetup.com/Ansible-Taipei/events/256005876/) / [KKTIX](https://devops.kktix.cc/events/ansible-taipei-1) / [Mirror](https://www.slideshare.net/freezejonny/begin-and-end-of-ansible-taipei-meetup-1st)
 * 06/29 / [從《心態致勝》看敏捷](https://speakerdeck.com/chusiang/see-the-agile-from-mindset) @ [Agile Summit 2018](https://summit.ithome.com.tw/agile/2018/) / [Mirror](https://www.slideshare.net/freezejonny/see-the-agile-from-mindset)
