@@ -2,11 +2,11 @@
 
 ## 2019
 
-* 12.28 / [系統工程師的 DevOps 實踐之道 3/e](https://speakerdeck.com/chusiang/my-devops-tour-2-dot-3) @ [Agile Tour Taichung 2019](https://agilecommtw.kktix.cc/events/agiletourtaichung2019)
-* 12.21 / [系統工程師在敏捷團隊的求生之道](https://speakerdeck.com/chusiang/the-system-engineer-in-agile-team) @ [Agile Tour Kaohsiung 2019](https://agilecommtw.kktix.cc/events/agiletourkaohsiung2019)
-* 10.17 / [企業導入 Ansible 自動化真的容易嗎](https://speakerdeck.com/chusiang/is-it-really-easy-for-companies-to-import-ansible-automation) @ [DevOpsDays Taipei 2019](https://devopsdays.tw) / [HackMD](https://hackmd.io/s4V0iNgRSRicxcy6MMUbcA)
+* 12.28 / [系統工程師的 DevOps 實踐之道 3/e](https://speakerdeck.com/chusiang/my-devops-tour-2-dot-3) @ [Agile Tour Taichung 2019](https://agilecommtw.kktix.cc/events/agiletourtaichung2019) / [Mirror](https://www.slideshare.net/freezejonny/my-devops-tour-23)
+* 12.21 / [系統工程師在敏捷團隊的求生之道](https://speakerdeck.com/chusiang/the-system-engineer-in-agile-team) @ [Agile Tour Kaohsiung 2019](https://agilecommtw.kktix.cc/events/agiletourkaohsiung2019) / [Mirror](https://www.slideshare.net/freezejonny/the-system-engineer-in-agile-team)
+* 10.17 / [企業導入 Ansible 自動化真的容易嗎](https://speakerdeck.com/chusiang/is-it-really-easy-for-companies-to-import-ansible-automation) @ [DevOpsDays Taipei 2019](https://devopsdays.tw) / [HackMD](https://hackmd.io/s4V0iNgRSRicxcy6MMUbcA) / [Mirror](https://www.slideshare.net/freezejonny/is-it-really-easy-for-companies-to-import-ansible-automation)
 * 08.17 / [系統工程師的打怪升級之旅](https://speakerdeck.com/chusiang/my-devops-tour-0-dot-1) @ [COSCUP 2019](https://coscup.org/2019/programs/74c5eaa3-e026-4290-86aa-334653923c27/) / [Mirror](https://www.slideshare.net/freezejonny/my-devops-tour-01)
-* 05.17 / [見樹又見林的系統思考](https://speakerdeck.com/chusiang/systems-thinking-the-forest-and-the-tree) @ [Agile Summit 2019](https://summit.ithome.com.tw/agile/)
+* 05.17 / [見樹又見林的系統思考](https://speakerdeck.com/chusiang/systems-thinking-the-forest-and-the-tree) @ [Agile Summit 2019](https://summit.ithome.com.tw/agile/) / [Mirror](https://www.slideshare.net/freezejonny/systems-thinking-the-forest-and-the-tree)
 * 05.09 / 爆肝工程師的 RSI 傷痛之旅 @ Omplexity 系統思考同學會 2nd
 
 ## 2018
