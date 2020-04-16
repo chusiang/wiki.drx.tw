@@ -50,6 +50,8 @@ $ cowsay Docker
           \____\______/
 ```
 
+# ASCII Art
+
 ## Buddha's Blessing
 
 ```
@@ -74,4 +76,14 @@ $ cowsay Docker
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
          佛祖保佑       永無 BUG
 ```
+
+## Unicorn
+
+* [ASCII Art Unicorns | asciiart.eu](https://www.asciiart.eu/mythology/unicorns)
+
+## Gundam
+
+* [Gundam text ASCII art | Gundam Kits Collection News and Reviews](https://www.gundamkitscollection.com/2014/07/gundam-text-ascii-art.html)
+* [Gundam | Ascii Art Archives for Recyde](http://asciiart.en.utf8art.com/arc/gundam_41.html)
+* [Nu Gundam (GUNDAM) | Ascii Art Archives for Recyde](http://anime.en.utf8art.com/arc/gundam_42.html)
 
