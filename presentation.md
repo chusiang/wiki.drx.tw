@@ -1,5 +1,9 @@
 # 簡報 & 投影片 (Presentation & slides)
 
+## 2020
+
+* 02.25 / [就是要跟你聊 Red Hat Ansible：自動化怎麼讓你更安心管理系統](https://speakerdeck.com/chusiang/we-want-to-talk-ansible-with-you-of-chusiang-part) @ [Red Hat Taiwan](https://www.digitimes.com.tw/seminar/RedHat_20200225/) / [Video](https://youtu.be/QOMg9f6gFOs) / [DigiTimes](https://www.digitimes.com.tw/eventplus/event.asp?id=056A90225&prodgroup=0)
+
 ## 2019
 
 * 12.28 / [系統工程師的 DevOps 實踐之道 3/e](https://speakerdeck.com/chusiang/my-devops-tour-2-dot-3) @ [Agile Tour Taichung 2019](https://agilecommtw.kktix.cc/events/agiletourtaichung2019) / [Mirror](https://www.slideshare.net/freezejonny/my-devops-tour-23)
