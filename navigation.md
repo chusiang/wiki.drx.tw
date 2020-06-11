@@ -18,7 +18,7 @@
  * [Software](software.md)
  * [Text-Editor](text-editor.md)
 
-[GO Racket Analysis](https://gorocket.drx.tw/#!index.md)
+[Game](game.md)
 
 [gimmick:theme](slate)
 [gimmick:ThemeChooser](Change theme)
