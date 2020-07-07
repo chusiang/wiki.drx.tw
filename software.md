@@ -113,6 +113,7 @@
 - [Cmder][cmder] - 具有 Linux 溫度的 Windows 命令提示字元。 [ Windows ]
 - [ConEmu][conemu] - A Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features. [ Windows ]
 - [Cool Retro Term][cool-retro-term] - A terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight. [ Linux ] [ macOS ]
+- [eDEX-UI][edexui] - A fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.
 - Gnome Terminal
 - LXTerminal
 - [iTerm2][iterm2]
@@ -122,6 +123,7 @@
 [cmder]: http://cmder.net
 [conemu]: https://conemu.github.io/
 [cool-retro-term]: https://github.com/Swordfish90/cool-retro-term
+[edexui]: https://github.com/GitSquared/edex-ui
 [iterm2]: https://www.iterm2.com/
 
 ## Video Recording (視訊錄影)
@@ -224,7 +226,7 @@
 [Xshell]: https://www.netsarang.com/products/xsh_overview.html
 
 
-## Presentation 簡報軟體
+## Presentation (簡報軟體)
 
 - [KeyCastr][keycastr]: An open-source keystroke visualizer. [ macOS ]
 - [Logitech Spotlight][logitech_spotlight]: Hardware presentation remote. [ Windows] [ macOS ]
@@ -233,3 +235,10 @@
 [keycastr]: https://github.com/keycastr/keycastr
 [logitech_spotlight]: https://www.logitech.com/zh-tw/product/spotlight-presentation-remote/page/spotlight-features
 [mousepose]: https://boinx.com/mousepose/overview/
+
+## Version Control (版本控制)
+
+- [Git][git]: A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+  - https://www.gitignore.io/
+
+[git]: https://git-scm.com/
