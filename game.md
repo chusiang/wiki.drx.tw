@@ -2,6 +2,8 @@
 
 ## 薩爾達傳說 (The Legend of Zelda)
 
+> * Platform: Nintendo Switch
+
 * [薩爾達傳說 | Komica wiki](https://wiki.komica.org/%E8%96%A9%E7%88%BE%E9%81%94%E5%82%B3%E8%AA%AA)
   * 順便一提，雖然標題為《薩爾達傳說》，不過「林克」才是主角。
 * [薩爾達傳說發展史 #1 ｜帶你從零開始認識《薩爾達傳說》系列 (上) 【RIVER 從零開始遊戲】 | YouTube](https://www.youtube.com/watch?v=lJeYhxCjoxE)
@@ -22,8 +24,22 @@
 
 ## 機器人大戰 V
 
-TBD.
+> * Platform: Nintendo Switch
 
 ## Pokemon GO
 
+> * Platform: Android, iOS
+
 * [GO Rocket 對戰分析](https://gorocket.drx.tw/#!index.md) (EOL)
+
+## 0 A.D.
+
+> * Platform: GNU/Linux, macOS, Windows
+
+https://play0ad.com/
+
+## Tux Racer
+
+> * Platform: GNU/Linux, macOS
+
+http://tuxracer.sourceforge.net/
