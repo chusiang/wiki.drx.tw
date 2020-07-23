@@ -14,6 +14,7 @@
 1. [Agile Community Taiwan](agile-community-tw.md)
 1. [DigitalOcean Hsinchu](https://www.facebook.com/DigitalOceanHsinchu/)
 1. [Site Reliability Engineering Taiwan](https://www.facebook.com/groups/sre.taiwan/)
+1. [GitLab Taipei User Group](https://www.facebook.com/groups/273129540719093/)
 
 ## Meetup
 
