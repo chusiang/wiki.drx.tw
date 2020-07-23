@@ -27,6 +27,9 @@
 
 若想回顧各個 Conference 的盛況，不妨觀看 [chusiang/irc_log](https://github.com/chusiang/irc_log)。
 
+1. Agile Summit
+  1. Agile Summit 2018
+  1. Agile Summit 2019
 1. COSCUP
   1. COSCUP 2008
   1. COSCUP 2009
@@ -38,6 +41,8 @@
   1. COSCUP 2015
   1. COSCUP 2016
   1. [COSCUP 2017](coscup-2017.md)
+  1. COSCUP 2018
+  1. COSCUP 2019
 1. OSDC Taiwan
   1. COSCUP 2010
 1. MOPCON
@@ -52,6 +57,8 @@
   1. Container Summit 2016
 1. DevOpsDays Taipei
   1. DevOpsDays Taipei 2017
+  1. DevOpsDays Taipei 2018
+  1. DevOpsDays Taipei 2019
 
 ## Reference
 
