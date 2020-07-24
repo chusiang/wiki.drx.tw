@@ -113,10 +113,11 @@
 - [Cmder][cmder] - 具有 Linux 溫度的 Windows 命令提示字元。 [ Windows ]
 - [ConEmu][conemu] - A Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features. [ Windows ]
 - [Cool Retro Term][cool-retro-term] - A terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight. [ Linux ] [ macOS ]
-- [eDEX-UI][edexui] - A fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.
 - Gnome Terminal
 - LXTerminal
-- [iTerm2][iterm2]
+- [Tilix][tiling]: An advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
+- [eDEX-UI][edexui] - A fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface. [ Linux ] [ macOS ] [ Windows ]
+- [iTerm2][iterm2] [ macOS ]
 - rxvt
 
 [black_screen]: https://github.com/shockone/black-screen
@@ -125,6 +126,7 @@
 [cool-retro-term]: https://github.com/Swordfish90/cool-retro-term
 [edexui]: https://github.com/GitSquared/edex-ui
 [iterm2]: https://www.iterm2.com/
+[tilix]: https://gnunn1.github.io/tilix-web/
 
 ## Video Recording (視訊錄影)
 
