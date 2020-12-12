@@ -32,7 +32,21 @@
 
 * Facebook Group: https://www.facebook.com/groups/agile.kaohsiung/
 
+
+### 敏捷女生 (AgileGirls)
+
+* Facebook Fans: https://www.facebook.com/AgileGirls/
+* Facebook Group: https://www.facebook.com/groups/1879604678806170/
+* Medium: https://medium.com/agilegirls
+* Apple Podcasts: https://podcasts.apple.com/tw/podcast/agilegirls-%E6%95%8F%E6%8D%B7%E5%A5%B3%E7%94%9F/id1506967299
+* Google Podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xYzBiNmVjNC9wb2RjYXN0L3Jzcw/episode/NjMxY2Q4ZTktMzZlZC00MDI2LTljNTQtODY1ODQ4NDg2YTc1
+* Spotify Podcasts: https://open.spotify.com/show/3Bjc1IsD5p9TnfW5HJ9yDx
+
 ## 台灣敏捷之旅 (Agile Tour Taiwan)
+
+### 2020
+
+* 12/12 [台灣敏捷之旅 2020 (Agile Tour Taiwan 2020)](https://agiletourtaiwan.org/)
 
 ### 2018
 
