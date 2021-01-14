@@ -21,6 +21,7 @@ The `drx.tw` domain name has be registered by chusiang from 2011-03-21. Naming f
  * Medium: https://medium.com/@chusiang
 * LinkedIn: https://www.linkedin.com/in/chusiang/
 * Facebook: https://www.facebook.com/chusiang.lai
+* MeWe: https://mewe.com/i/chusiang
 * Twitter: https://twitter.com/chusiang_lai
 * GitLab: https://gitlab.com/chusiang
 * GitHub: https://github.com/chusiang
