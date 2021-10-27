@@ -17,7 +17,6 @@ clean:
 	rm -rf public/
 
 deploy_to_pages:
-	mkdir 	public/
-	cp *.html public/
-	cp *.md public/
-	cp -r commands imgs public/
+	mkdir public/
+	cp *.md	*.html public/
+	cp -r commands imgs posts public/
