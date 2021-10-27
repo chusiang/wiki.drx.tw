@@ -1,4 +1,4 @@
-.PHONY: main init run status clean deploy_to_pages
+.PHONY: main init run status push deploy_to_pages clean
 
 main: run
 
@@ -11,12 +11,16 @@ run:
 status:
 	docker-compose ps
 
-clean:
-	docker-compose stop wiki
-	docker-compose rm -f wiki
-	rm -rf public/
+push:
+	git push origin main
+	git push gh main
 
 deploy_to_pages:
 	mkdir public/
 	cp *.md	*.html public/
 	cp -r commands imgs posts public/
+
+clean:
+	docker-compose stop wiki
+	docker-compose rm -f wiki
+	rm -rf public/
