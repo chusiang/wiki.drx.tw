@@ -12,5 +12,5 @@ pages:
     - public
     expire_in: 2 month
   only:
-    - master@chusiang/wiki.drx.tw
+    - main@chusiang/wiki.drx.tw
     - tags@chusiang/wiki.drx.tw
