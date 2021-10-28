@@ -138,13 +138,30 @@ lrwxrwxrwx 1 chusiang chusiang      25 Oct 27 18:05 libcreaterepo_c.so.0 -> libc
 -rwxr-xr-x 1 chusiang chusiang 1203264 Oct 27 18:01 libcreaterepo_c.so.0.17.7
 ```
 
+查看 createrepo 版本。
 
-> Run `createrepo` on deplyed Ubuntu node.
+> Check version.
+
 
 ```
 [ chusiang@ubuntu-vm ~/createrepo_dir ] - 18:10
 $ ./createrepo_c --version
 Version: 0.17.7 (Features: LegacyWeakdeps )
+```
+
+建個 repo 目錄，試跑一下 createrepo 吧！
+
+> Run `createrepo` on deplyed Ubuntu node.
+
+```
+[ chusiang@ubuntu-vm ~/createrepo_dir ] - 18:10
+$ mkdir repo/ && ./createrepo_c repo/
+Directory walk started
+Directory walk done - 0 packages
+Temporary output repo path: repo/.repodata/
+Preparing sqlite DBs
+Pool started (with 5 workers)
+Pool finished
 ```
 
 DONE !
