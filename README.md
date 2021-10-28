@@ -1,6 +1,6 @@
 # Wiki | Drx.tw
 
-A wiki of chusiang. We can get this source code on [https://gitlab.com/chusiang/wiki.drx.tw](https://gitlab.com/chusiang/wiki.drx.tw). #movingtogitlab
+A wiki of chusiang. We can get this source code on [GitHub](https://github.com/chusiang/wiki.drx.tw) and [GitLab](https://gitlab.com/chusiang/wiki.drx.tw).
 
 ## 關於 Drx.tw (About Drx.tw)
 
@@ -17,11 +17,10 @@ The `drx.tw` domain name has be registered by chusiang from 2011-03-21. Naming f
 * Nick Name: 凍仁．翔
 * Email: *chusiang (at) drx.tw*
 * Blog:
- * Blogger: https://note.drx.tw
- * Medium: https://medium.com/@chusiang
+  * Blogger: https://note.drx.tw
+  * Medium: https://medium.com/@chusiang
 * LinkedIn: https://www.linkedin.com/in/chusiang/
 * Facebook: https://www.facebook.com/chusiang.lai
-* MeWe: https://mewe.com/i/chusiang
 * Twitter: https://twitter.com/chusiang_lai
 * GitLab: https://gitlab.com/chusiang
 * GitHub: https://github.com/chusiang
@@ -33,4 +32,3 @@ The `drx.tw` domain name has be registered by chusiang from 2011-03-21. Naming f
 * HackMD: https://hackmd.io/@chusiang
 * Unsplash: https://unsplash.com/@chusiang
 * Taaze: http://s.drx.tw/taaze
-* Nook Exchange: https://nook.exchange/u/chusiang
