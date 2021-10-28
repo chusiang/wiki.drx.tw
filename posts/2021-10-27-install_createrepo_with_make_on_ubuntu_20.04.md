@@ -98,7 +98,7 @@ $ make -j
 
 ```
 [ chusiang@ubuntu-vm ~/createrepo_dir ] - 18:10
-$ sudo apt install librpm8
+$ sudo apt install -y librpm8 libglib2.0-0 libcurl4 libmagic1
 ```
 
 複製二進位檔 (binary) 和函式檔 (library)，並建立軟連結。
