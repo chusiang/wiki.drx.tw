@@ -7,7 +7,7 @@
 
 ----
 
-## Build
+## Build createrepo_c
 
 藉由 Docker 來編譯 createrepo。(選項)
 
@@ -88,7 +88,7 @@ $ make -j
 ```
 
 
-## Deployment
+## Porting with binary
 
 要想在其它台 Ubuntu 20.04 server 上執行剛編好的 createrepo，還需進行些簡易的組態設定才行。
 
@@ -171,9 +171,84 @@ DONE !
 
 > We can run the `createrepo` on Ubuntu 20.04 now, maybe I can packaging to deb file for deploy easier.
 
+----
+
+## Packing to deb
+
+```
+[ chusiang@ubuntu-vm ~/createrepo_dir ] - 18:10
+$ tree createrepo/
+createrepo/
+├── DEBIAN
+│   ├── control
+│   ├── control.sample
+│   ├── postinst
+│   ├── postrm
+│   ├── preinst
+│   └── prerm
+├── README.md
+└── usr
+    └── local
+        ├── bin
+        │   └── createrepo
+        └── lib
+            ├── libcreaterepo_c.so -> libcreaterepo_c.so.0.17.7
+            ├── libcreaterepo_c.so.0 -> libcreaterepo_c.so.0.17.7
+            └── libcreaterepo_c.so.0.17.7
+```
+
+```
+[ chusiang@ubuntu-vm ~/createrepo_dir ] - 18:10
+$ cat createrepo/DEBIAN/control.sample
+Package: createrepo
+Version: 0.17.7
+Architecture: all
+Maintainer: Chu-Siang Lai <chusiang.lai@gmail.com>
+Installed-Size: 16
+Depends: librpm8 (>=4.14.2), libglib2.0-0 (>=2.64.6), libcurl4 (>=7.68.0), libmagic1 (>=1.5.38)
+Section: universe/admin
+Priority: optional
+Homepage: http://createrepo.baseurl.org/
+Description: Make createrepo_c for Ubuntu
+```
+
+## Install createrepo by deb
+
+```
+root@7c6d843f0bdd:/srv/dest# sudo apt install ./createrepo_0.17.7.deb
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+Note, selecting 'createrepo' instead of './createrepo_0.17.7.deb'
+The following additional packages will be installed:
+  ca-certificates dbus krb5-locales libapparmor1 libasn1-8-heimdal libbrotli1 libcap2 libcurl4 libdbus-1-3 libelf1
+  libexpat1 libglib2.0-0 libglib2.0-data libgssapi-krb5-2 libgssapi3-heimdal libhcrypto4-heimdal libheimbase1-heimdal
+  libheimntlm0-heimdal libhx509-5-heimdal libicu66 libk5crypto3 libkeyutils1 libkrb5-26-heimdal libkrb5-3 libkrb5support0
+  libldap-2.4-2 libldap-common liblua5.2-0 libmagic-mgc libmagic1 libnghttp2-14 libnspr4 libnss3 libpopt0 libpsl5
+  libroken18-heimdal librpm8 librpmio8 librtmp1 libsasl2-2 libsasl2-modules libsasl2-modules-db libsqlite3-0 libssh-4
+  libssl1.1 libwind0-heimdal libxml2 openssl publicsuffix rpm-common shared-mime-info tzdata xdg-user-dirs
+Suggested packages:
+  default-dbus-session-bus | dbus-session-bus krb5-doc krb5-user file libsasl2-modules-gssapi-mit
+  | libsasl2-modules-gssapi-heimdal libsasl2-modules-ldap libsasl2-modules-otp libsasl2-modules-sql
+The following NEW packages will be installed:
+  ca-certificates dbus krb5-locales libapparmor1 libasn1-8-heimdal libbrotli1 libcap2 libcurl4 libdbus-1-3 libelf1
+  libexpat1 libglib2.0-0 libglib2.0-data libgssapi-krb5-2 libgssapi3-heimdal libhcrypto4-heimdal libheimbase1-heimdal
+  libheimntlm0-heimdal libhx509-5-heimdal libicu66 libk5crypto3 libkeyutils1 libkrb5-26-heimdal libkrb5-3 libkrb5support0
+  libldap-2.4-2 libldap-common liblua5.2-0 libmagic-mgc libmagic1 libnghttp2-14 libnspr4 libnss3 libpopt0 libpsl5
+  libroken18-heimdal librpm8 librpmio8 librtmp1 libsasl2-2 libsasl2-modules libsasl2-modules-db libsqlite3-0 libssh-4
+  libssl1.1 libwind0-heimdal libxml2 createrepo openssl publicsuffix rpm-common shared-mime-info tzdata xdg-user-dirs
+0 upgraded, 54 newly installed, 0 to remove and 0 not upgraded.
+Need to get 19.1 MB/19.4 MB of archives.
+After this operation, 77.5 MB of additional disk space will be used.
+Do you want to continue? [Y/n]
+```
+
+TBD.
+
 
 ## Reference
 
 * <a href="https://www.stableit.ru/2021/07/createrepo-on-ubuntu-2004.html" target="_blank">Createrepo on Ubuntu 20.04 | Stable IT</a>
+* <a href="http://blog.toright.com/posts/4434/%e6%89%93%e5%8c%85%e8%87%aa%e5%b7%b1%e7%9a%84-debian-package-ubuntu-deb-%e5%a5%97%e4%bb%b6%e5%b0%81%e8%a3%9d%e6%95%99%e5%ad%b8.html/deb-make" target="_blank">Deb Package 套件封裝教學 | Soul & Shell Blog</a>
 * <a href="http://createrepo.baseurl.org/" target="_blank">Createrepo Official</a>
 * <a href="http://manpages.ubuntu.com/manpages/bionic/man8/createrepo.8.html" target="_blank">createrepo - Create repomd (xml-rpm-metadata) repository | Ubuntu Manpage</a>
