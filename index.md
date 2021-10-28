@@ -1,6 +1,6 @@
 # Wiki | Drx.tw
 
-A wiki of chusiang. We can get this source code on [GitHub](https://github.com/chusiang/wiki.drx.tw) and [https://gitlab.com/chusiang/wiki.drx.tw](https://gitlab.com/chusiang/wiki.drx.tw).
+A wiki of chusiang. We can get this source code on [GitHub](https://github.com/chusiang/wiki.drx.tw) and [GitLab](https://gitlab.com/chusiang/wiki.drx.tw).
 
 ## 關於 Drx.tw (About Drx.tw)
 
