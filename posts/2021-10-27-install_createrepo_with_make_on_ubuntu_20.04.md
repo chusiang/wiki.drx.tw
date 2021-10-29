@@ -249,6 +249,6 @@ TBD.
 ## Reference
 
 * <a href="https://www.stableit.ru/2021/07/createrepo-on-ubuntu-2004.html" target="_blank">Createrepo on Ubuntu 20.04 | Stable IT</a>
-* <a href="http://blog.toright.com/posts/4434/%e6%89%93%e5%8c%85%e8%87%aa%e5%b7%b1%e7%9a%84-debian-package-ubuntu-deb-%e5%a5%97%e4%bb%b6%e5%b0%81%e8%a3%9d%e6%95%99%e5%ad%b8.html/deb-make" target="_blank">Deb Package 套件封裝教學 | Soul & Shell Blog</a>
+* <a href="https://blog.toright.com/posts/4434/deb-package-%e5%a5%97%e4%bb%b6%e5%b0%81%e8%a3%9d%e6%95%99%e5%ad%b8.html" target="_blank">Deb Package 套件封裝教學 | Soul & Shell Blog</a>
 * <a href="http://createrepo.baseurl.org/" target="_blank">Createrepo Official</a>
 * <a href="http://manpages.ubuntu.com/manpages/bionic/man8/createrepo.8.html" target="_blank">createrepo - Create repomd (xml-rpm-metadata) repository | Ubuntu Manpage</a>
