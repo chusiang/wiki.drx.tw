@@ -10,6 +10,10 @@
 * [薩爾達傳說發展史 #2 ｜帶你從零開始認識《薩爾達傳說》系列 (中) 【RIVER 從零開始遊戲】 | YouTube](https://www.youtube.com/watch?v=sJAhQN7x2bM)
 * [薩爾達傳說發展史 #3 ｜帶你從零開始認識《薩爾達傳說》系列 (下) 【RIVER 從零開始遊戲】 | YouTube](https://www.youtube.com/watch?v=Vzx53t1aXAc)
 
+### 薩爾達無雙：災厄啟示錄 (Hyrule Warriors: Age of Calamity)
+
+* [《薩爾達無雙 - 災厄啟示錄》DLC - 角色、武器取得說明 (有雷) | 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=1689&snA=10261)
+
 ### 薩爾達傳說：曠野之息 (The Legend of Zelda: Breath of the Wild)
 
 * [薩爾達傳說：曠野之息 | 維基百科](https://zh.wikipedia.org/zh-tw/%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4_%E6%97%B7%E9%87%8E%E4%B9%8B%E6%81%AF)
