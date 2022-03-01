@@ -209,11 +209,15 @@
 ## Productivity (生產力)
 
 - [Alfred][alfred] [ macOS ]
+- [Gnome-Pomodoro][gnome-pomodoro] - A time management utility for GNOME based on the pomodoro technique. [ Linux ]
 - [Lightshot][lightshot] - 支援 Windows, macOS, Ubuntu, Chrome 的老牌截圖工具。
+- [Shutter][shutter] - Shutter is a feature-rich screenshot program for Linux based operating systems such as Ubuntu. [ Linux ]
 - [Wox][wox] [ Windows ]
 
 [alfred]: https://www.alfredapp.com/
+[gnome-pomodoro]: https://gnomepomodoro.org/
 [lightshot]: https://app.prntscr.com/
+[shutter]: https://shutter-project.org/
 [wox]: https://github.com/Wox-launcher/Wox
 
 
