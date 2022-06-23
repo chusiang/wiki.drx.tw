@@ -61,9 +61,9 @@ Infrastructure as Code.
 * [Ansible](https://www.ansible.com/)
   * [Ansible Galaxy](https://galaxy.ansible.com/)
     * [chusiang | Ansible Galaxy](https://galaxy.ansible.com/chusiang/)
- * [Ansible On Demand Webinar | Ansible Inc.](https://gist.github.com/chusiang/91632920f75e03e1d24cf9213cbfe216) - Ansible 公司的網路研討會。
- * Tools:
-  1. [dysosmus/ansible\-completion: Basic bash completion for Ansible.](https://github.com/dysosmus/ansible-completion)
+  * [Ansible On Demand Webinar | Ansible Inc.](https://gist.github.com/chusiang/91632920f75e03e1d24cf9213cbfe216) - Ansible 公司的網路研討會。
+  * [Releases and maintenance | Ansible Documentation](https://docs.ansible.com/ansible/latest/reference_appendices/release_and_maintenance.html)
+  * [dysosmus/ansible\-completion: Basic bash completion for Ansible.](https://github.com/dysosmus/ansible-completion)
 * [Chef](https://www.chef.io/)
   * [Chef Supermarket](https://supermarket.chef.io)
 
@@ -114,11 +114,12 @@ none.
 
 * Nagios
 * [Zabbix](zabbix.md)
+  * [Zabbix Life Cycle & Release Policy](https://www.zabbix.com/life_cycle_and_release_policy)
 * [Prometheus](https://prometheus.io)
 
 ## Logging
 
-* Logstash.
+* [ELK stack](https://www.elastic.co/what-is/elk-stack)
 
 ## Security
 
