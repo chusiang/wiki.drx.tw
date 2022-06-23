@@ -11,8 +11,8 @@
 * 出版日期：2016-12-31
 * 定價：Free
 * 語言：繁體中文
-* GitBook: https://www.gitbook.com/book/chusiang/automate-with-ansible/details
-  * Short link: http://s.drx.tw/ansiblebook
+* GitBook: https://chusiang.gitbook.io/ansible-book-for-it/
+  * EOL: https://chusiang.gitbooks.io/automate-with-ansible/content/
 * GitHub: https://github.com/chusiang/automate-with-ansible
 * License: CC BY-NC-SA 3.0
 
