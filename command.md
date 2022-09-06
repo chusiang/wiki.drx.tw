@@ -26,6 +26,7 @@
 
 ## H
 
+- httpie - HTTPie is a command-line HTTP client. [(more)](https://devhints.io/httpie)
 - httpstat - curl statistics made simple. [(more)](https://github.com/reorx/httpstat)
 
 ## I
