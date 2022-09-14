@@ -33,13 +33,17 @@
 * [Google Chrome][chrome]
 * [Safari][safari]
 * [Vivaldi][vivaldi] - fork from Opera.
+* [Dash][dash] - An API Documentation Browser and Code Snippet Manager. [ Mac / iOS ]
+  * [Zeal][zeal] - An offline documentation browser for software developers. [Linux / Windows]
 
+[chrome]: https://www.google.com.tw/chrome/
+[dash]: https://kapeli.com/dash
 [firefox]: https://moztw.org/firefox/
 [moztw]: https://moztw.org
-[chrome]: https://www.google.com.tw/chrome/
+[pentadactyl]: http://5digits.org/pentadactyl/index
 [safari]: http://www.apple.com/tw/safari/
 [vivaldi]: https://vivaldi.com/?lang=zh_TW
-[pentadactyl]: http://5digits.org/pentadactyl/index
+[zeal]: https://zealdocs.org/
 
 ## Download (下載)
 
