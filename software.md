@@ -11,7 +11,6 @@
 [open_source]: https://zh.wikipedia.org/wiki/开放源代码
 [floss]: https://zh.wikipedia.org/wiki/自由及开放源代码软件
 
-
 ## IME (輸入法編輯器)
 
 - [嘸蝦米輸入法][ovff] [Windows / Mac / Android]
@@ -25,7 +24,6 @@
 [chewing]: http://chewing.im/
 [gcin]: http://hyperrate.com/dir.php?eid=67
 
-
 ## Browser (瀏覽器)
 
 * [Mozilla Firefox (火狐)][firefox] / [Mozilla 台灣社群][moztw]
@@ -34,7 +32,8 @@
 * [Safari][safari]
 * [Vivaldi][vivaldi] - fork from Opera.
 * [Dash][dash] - An API Documentation Browser and Code Snippet Manager. [ Mac / iOS ]
-  * [Zeal][zeal] - An offline documentation browser for software developers. [Linux / Windows]
+* [Zeal][zeal] - An offline documentation browser for software developers. [Linux / Windows]
+  * [Zeal User Contributions][zealusercontributions] - Non-Official Zeal User Contributions (& Cheat Sheets) Repository.
 
 [chrome]: https://www.google.com.tw/chrome/
 [dash]: https://kapeli.com/dash
@@ -44,6 +43,7 @@
 [safari]: http://www.apple.com/tw/safari/
 [vivaldi]: https://vivaldi.com/?lang=zh_TW
 [zeal]: https://zealdocs.org/
+[zealusercontributions]: zealusercontributions.now.sh
 
 ## Download (下載)
 
@@ -59,7 +59,6 @@
 [thunderbird]: https://moztw.org/thunderbird/
 [muttator]: http://vimperator.org/muttator
 
-
 ## Burn & Image (光碟燒錄和映像檔)
 
 - CDBurnerXP - 支援中文語系。 [ Windows ]
@@ -67,7 +66,6 @@
 - InfraRecorder - 開源的燒錄軟體。 [ Windows ]
 - Ultra ISO Premium Edition - ISO 製作、編輯。 [ Windows ]
 - WinISO - 映像檔編輯工具。 [ Windows ]
-
 
 ## Clone & Backup
 
@@ -79,11 +77,9 @@
 [fsarchiver]: http://www.fsarchiver.org/
 [partimage]: http://www.partimage.org/
 
-
 ## Finance (財務管理)
 
 - GunCash - Gnome 的財務管理軟體，可建立不同帳戶使用，除個人使用外，中小企業更可以利用它來管理員工的開支，或是顧客與供應商的交易。
-
 
 ## Text Editor (純文字編輯器)
 
@@ -97,7 +93,6 @@
 [emacs]: https://www.gnu.org/software/emacs/
 [emacs_tw]: http://emacser.tw
 [joe]: http://joe-editor.sourceforge.net/
-
 
 ## Console Emulator (操緃臺)
 
@@ -142,13 +137,11 @@
 [obs]: https://obsproject.com
 [licecap]: https://www.cockos.com/licecap/
 
-
 ## Virtual CD (虛擬光碟)
 
 - Alcohol 52%, 120% [ Windows ]
 - MagicDisk [ Windows ]
 - Daemon Tool [ Windows ]
-
 
 ## Package Manager (套件管理員)
 
@@ -157,7 +150,6 @@
 - [Chocolatey](chocolatey) - A PowerShell base package manager. [Windows]
 
 [chocolatey]: https://chocolatey.org/
-
 
 ## File Manager (檔案管理員)
 
@@ -176,7 +168,6 @@
 [tag2find]: http://www.tag2find.com/tag2find0.0.html
 [qdir]: http://www.softwareok.com/?seite=Freeware/Q-Dir
 
-
 ## Virtual Machine (虛擬機器)
 
 - [VirtualBox][virtualbox] - Open source 的虛擬機器軟體。
@@ -190,7 +181,6 @@
 
 [proxmox]: https://www.proxmox.com/
 [virtualbox]: https://www.virtualbox.org/
-
 
 ## 分析 (Analytics)
 
@@ -209,7 +199,6 @@
 [divvy]: http://mizage.com/divvy/
 [spectacle]: https://www.spectacleapp.com/
 
-
 ## Productivity (生產力)
 
 - [Alfred][alfred] [ macOS ]
@@ -224,7 +213,6 @@
 [shutter]: https://shutter-project.org/
 [wox]: https://github.com/Wox-launcher/Wox
 
-
 ## Remote Management (遠端管理)
 
 - [PieTTY][pietty] - 小巧方便的 Telnet/SSH 安全遠端連線程式， 但用於非英語系文字時有非常多的問題， 而且它對於初學者來說過於複雜的使用界面也為人詬病已久。(年久失修的 ssh client) [ Windows ]
@@ -234,7 +222,6 @@
 [pietty]: https://sites.google.com/view/pietty-project
 [mRemoteNG]: https://github.com/mRemoteNG/mRemoteNG
 [Xshell]: https://www.netsarang.com/products/xsh_overview.html
-
 
 ## Presentation (簡報軟體)
 
