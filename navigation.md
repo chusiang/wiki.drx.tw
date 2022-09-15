@@ -22,6 +22,7 @@
   * [Software](software.md)
   * [Text-Editor](text-editor.md)
 
+[Model Craft](model-craft.md)
 [Game](game.md)
 
 [gimmick:theme](slate)
