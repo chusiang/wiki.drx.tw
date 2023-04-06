@@ -37,6 +37,7 @@
 1. [密斯特喬 / MR.JOE HOBBY](http://www.mrjoe.com.tw/)
 1. [姊妹倆玩模型](http://twins-gunpla.blogspot.com/)
 1. [Xpirt Li 的玩具圈](https://xpiritlee.blogspot.com/)
+1. [阿彥模型整備工坊 \-HOBBY\.PL\- 倉庫版](https://pdream.pixnet.net/blog)
 
 ## 教學影片
 
