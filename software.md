@@ -13,11 +13,11 @@
 
 ## IME (輸入法編輯器)
 
-- [嘸蝦米輸入法][ovff] [Windows / Mac / Android]
+- [嘸蝦米輸入法][ovff] [ Windows / macOS / Android ]
 - [許氏注音輸入法](hsu-key)
 - [Chewing][chewing] - 新酷音。 [ Linux / Windows ]
-- YahooKeyKey - Yahoo 好打注音。 [ Mac / Windows ]
-- [Gcin][gcin] [Linux / Windows / Android ]
+- YahooKeyKey - Yahoo 好打注音。 [ macOS / Windows ]
+- [Gcin][gcin] [ Linux / Windows / Android ]
 
 [ovff]: https://boshiamy.com
 [hsu-key]: https://zh.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E8%BC%B8%E5%85%A5%E6%B3%95#.E8.A8.B1.E6.B0.8F.E9.8D.B5.E7.9B.A4
@@ -31,8 +31,8 @@
 * [Google Chrome][chrome]
 * [Safari][safari]
 * [Vivaldi][vivaldi] - fork from Opera.
-* [Dash][dash] - An API Documentation Browser and Code Snippet Manager. [ Mac / iOS ]
-* [Zeal][zeal] - An offline documentation browser for software developers. [Linux / Windows]
+* [Dash][dash] - An API Documentation Browser and Code Snippet Manager. [ macOS / iOS ]
+* [Zeal][zeal] - An offline documentation browser for software developers. [ Linux / Windows ]
   * [Zeal User Contributions][zealusercontributions] - Non-Official Zeal User Contributions (& Cheat Sheets) Repository.
 
 [chrome]: https://www.google.com.tw/chrome/
@@ -127,15 +127,20 @@
 [iterm2]: https://www.iterm2.com/
 [tilix]: https://gnunn1.github.io/tilix-web/
 
-## Video Recording (視訊錄影)
+## Multimedia (多某體)
 
-- CamStudio
-- [LICEcap][licecap] - Capture an area of your desktop and save it directly to .GIF (for viewing in web browsers, etc) or .LCF (see below). [ Windows ][ Linux ]
+- [CamStudio][camstudio] - Free Desktop Recorder Streaming Video Software.
+- [Clementine][clementine]: A modern music player and library organizer. [ Windows / Linux / macOS ]
+- [LICEcap][licecap] - Capture an area of your desktop and save it directly to .GIF (for viewing in web browsers, etc) or .LCF (see below). [ Windows / Linux ]
 - [OBS Studio][obs] - Open Broadcaster Software is free and open source software for video recording and live streaming.
 - QuickTime Player
+- [Tag Editor][tag_editor] - A handy spreadsheet for audio tagging and organizing. [ macOS ]
 
-[obs]: https://obsproject.com
+[camstudio]: https://camstudio.org/
+[clementine]: https://www.clementine-player.org/
 [licecap]: https://www.cockos.com/licecap/
+[obs]: https://obsproject.com/
+[tag_editor]: https://apps.apple.com/tw/app/tag-editor/id886882234
 
 ## Virtual CD (虛擬光碟)
 
@@ -147,7 +152,7 @@
 
 - apt
 - yum
-- [Chocolatey](chocolatey) - A PowerShell base package manager. [Windows]
+- [Chocolatey](chocolatey) - A PowerShell base package manager. [ Windows ]
 
 [chocolatey]: https://chocolatey.org/
 
