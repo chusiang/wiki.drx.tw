@@ -1,5 +1,9 @@
 # 簡報 & 投影片 (Presentation & slides)
 
+## 2024
+
+- 10.30 / [Vaultwarden：打造你的私有密碼堡壘](https://speakerdeck.com/chusiang/vaultwarden-build-your-private-password-fortress) @ [DevOps Taiwan](https://devops.kktix.cc/events/meetup-63)
+
 ## 2020
 
 - 02.25 / [就是要跟你聊 Red Hat Ansible：自動化怎麼讓你更安心管理系統](https://speakerdeck.com/chusiang/we-want-to-talk-ansible-with-you-of-chusiang-part) @ [Red Hat Taiwan](https://www.digitimes.com.tw/seminar/RedHat_20200225/) / [Video](https://youtu.be/QOMg9f6gFOs) / [DigiTimes](https://www.digitimes.com.tw/eventplus/event.asp?id=056A90225&prodgroup=0)
